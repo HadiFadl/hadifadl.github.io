@@ -15,9 +15,7 @@ author: Hadi Fadlallah
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "/resume.pdf"
   Data Developers: "https://data-dev.blogspot.com"
 
 # --- Logo --- #

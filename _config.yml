@@ -14,10 +14,13 @@ author: Hadi Fadlallah
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "https://hadifadl.github.io"
   Resume: "/resume.pdf"
-  Data Developers: "https://data-dev.blogspot.com"
-
+  Resources:
+  - SQL Shack articles: "https://www.sqlshack.com/author/hadi/"
+  - Medium articles: "https://medium.com/@hadi.fadlullah"
+  - Data Developers Blog: "https://data-dev.blogspot.com"
+  About Me: "aboutme"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image

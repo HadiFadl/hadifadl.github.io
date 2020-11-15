@@ -16,7 +16,7 @@ author: Hadi Fadlallah
 navbar-links:
   Home: "https://hadifadl.github.io"
   Resume: "/resume.pdf"
-  Resources:
+  Articles:
   - SQL Shack articles: "https://www.sqlshack.com/author/hadi/"
   - Medium articles: "https://medium.com/@hadi.fadlullah"
   - Data Developers Blog: "https://data-dev.blogspot.com"

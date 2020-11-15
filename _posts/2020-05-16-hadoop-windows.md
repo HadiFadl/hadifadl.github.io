@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reasons to not install Hadoop on Windows
-subtitle: 
+subtitle: Big Data
 published: true
 date: '2020-05-16'
 external_url: 'https://medium.com/@hadi.fadlullah/reasons-to-not-install-hadoop-on-windows-5bf22f3f0005/'

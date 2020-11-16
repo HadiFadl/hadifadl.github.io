@@ -28,6 +28,9 @@ subtitle: Completed online courses certificates
 - [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/3def6605edb5736b514ecdad2d84e544804664ff)
 - [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/b0f8604372147525d2686bfe8a9b9c0ea61eae7c)
 - [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/de90c899ca33c1187a496bae880bc45038f1ff49)
-
+- [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/de90c899ca33c1187a496bae880bc45038f1ff49)
+- [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/efd69e6b3d06f9f36389c2ef0683141d5cfe4ca1)
+- [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/eca02b79f6194a9d461bfcc4076f5aa532957af0)
+- [Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/9499117747937f8928ec2cf4fad470d7844e6b52)
 
 

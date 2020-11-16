@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Execute SQL Task in SSIS: SqlStatementSource Expressions vs Variable Source Types
+title: 'Execute SQL Task in SSIS: SqlStatementSource Expressions vs Variable Source Types'
 published: true
 date: '2019-09-09'
 external_url: 'https://www.sqlshack.com/execute-sql-task-in-ssis-sqlstatementsource-expression-vs-variable-source-type/'

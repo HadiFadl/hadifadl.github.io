@@ -11,4 +11,4 @@ tags:
   - windows10
 subtitle: Towards Data Science
 ---
-While working on a project two years ago, I wrote a step-by-step guide to install Hadoop 3.1.0 on Ubuntu 16.04 operating system. Since we are currently working on a new project where we need to install a Hadoop cluster on Windows 10, I decided to write a guide for this process.
+While working on a project, we were asked to install Apache Hive on a Windows 10 operating system. Many guides were found online but unfortunately, they didn’t work. For this reason, I decided to write a step-by-step guide to help others.

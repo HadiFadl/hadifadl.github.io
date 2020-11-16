@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building databases using BIML
+title: Building databases using Biml
 published: true
 date: '2020-10-14'
 external_url: 'https://www.sqlshack.com/building-databases-using-biml/'

@@ -4,23 +4,40 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
-## 1. DataCamp.com
+## (1) Developer Circles From Facebook
 
-### 1.2. Completed Tracks
+- [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
-#### 1.2.1. Career Tracks
+## (2) Inria
+
+- [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)
+
+## (3) Udemy
+
+- [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## (4) DataCamp.com
+
+#### Completed Career Tracks
 
 - [Python Programmer track](https://www.datacamp.com/statement-of-accomplishment/track/bc114332e5a40c4329c028994be45c8a6b69915b)
 - [Data Analyst with Python track](https://www.datacamp.com/statement-of-accomplishment/track/992afaf2faf8f41681fd8bd0430b4d354221f3b4)
 
-#### 1.2.2. Skills Tracks
+#### Completed Skills Tracks
 
 - [Python fundamentals track](https://www.datacamp.com/statement-of-accomplishment/track/dc4cecf12cdbcc2b35f0f6d78950160e4d88a7fb)
 - [Importing and Cleaning data with Python track](https://www.datacamp.com/statement-of-accomplishment/track/6e8d361dafb482707d936e8c1d339027c937070e)
 - [Data Manipulation with Python track](https://www.datacamp.com/statement-of-accomplishment/track/913af0ae79370ec54a7e968f56b7efb87773e670)
 - [R Programming track](https://www.datacamp.com/statement-of-accomplishment/track/a76049a9a61cf80272b28a01ccd1aec6afab380c)
 
-### 1.3. Completed Courses
+#### Completed Courses
 
 - [Intoduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/207c37860ff264bb660a462071eff6e800164424)
 - [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/f99748866482a000e1028af1f430d7073aed26ae)
@@ -49,5 +66,14 @@ subtitle: Completed online courses certificates
 - [Merging DataFrames with pandas](https://www.datacamp.com/statement-of-accomplishment/course/81ddbfee632159899964b118b7c294bd86941448)
 - [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/2e0d5a16460b34b5b99163a30abc076eb2a3c0b7)
 - [Interactive Data Visualization with Bokeh](https://www.datacamp.com/statement-of-accomplishment/course/e4e0204a34ec14c22bc006b254cd8b9842af532b)
+
+
+## (5) Pluralsight
+
+- [Python Fundamentals](/assets/certificate/Python Fundamentals.pdf)
+- [Python: The Big Picture](/assets/certificate/Python The Big Picture.pdf)
+- [Python: Getting Started](/assets/certificate/Python Getting Started.pdf)
+
+## (6) IBM Cognitive Class
 
 

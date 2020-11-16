@@ -15,13 +15,16 @@ subtitle: Completed online courses certificates
 ## (3) Udemy
 
 - [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Apache Spark 2 with Python - Big Data with PySpark and Spark](https://www.udemy.com/certificate/UC-N7RHUZRB/)
+- [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-5SEAFJTJ/)
+- [Power BI - The Ultimate Orientation](https://www.udemy.com/certificate/UC-43L71OQX/)
+- [Introduction to Databases and SQL Querying](https://www.udemy.com/certificate/UC-UWGYU4UW/)
+- [Advanced Databases and SQL Querying](https://www.udemy.com/certificate/UC-NS86RKK5/)
+- [Understanding Data Quality and Reference Data Management](https://www.udemy.com/certificate/UC-P1DG8L1P/)
+- [https://www.udemy.com/course/master-data-management-s/](https://www.udemy.com/certificate/UC-HO6OI79K/)
+- [Learn Python Programming Language](https://www.udemy.com/certificate/UC-UFJYENKL/)
+- [Learn ETL using SSIS](https://www.udemy.com/certificate/UC-X4EB1KZG/)
+- [Learn SSRS Reporting in 120 minutes](https://www.udemy.com/certificate/UC-K7RC2MKG/)
 
 ## (4) DataCamp.com
 

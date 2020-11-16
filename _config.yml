@@ -14,7 +14,7 @@ author: Hadi Fadlallah
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://hadifadl.github.io"
+  Home: /
   Resume: "/resume.pdf"
   Articles:
   - SQL Shack articles: "https://www.sqlshack.com/author/hadi/"

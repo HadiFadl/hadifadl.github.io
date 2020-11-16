@@ -4,11 +4,11 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
-## (1) Developer Circles From Facebook
+## Developer Circles From Facebook
 
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
-## (2) DataCamp.com
+## Data Camp
 
 #### Completed Career Tracks
 
@@ -52,7 +52,7 @@ subtitle: Completed online courses certificates
 - [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/2e0d5a16460b34b5b99163a30abc076eb2a3c0b7)
 - [Interactive Data Visualization with Bokeh](https://www.datacamp.com/statement-of-accomplishment/course/e4e0204a34ec14c22bc006b254cd8b9842af532b)
 
-## (3) IBM Cognitive Class
+## IBM Cognitive Class
 
 #### Badges
 
@@ -78,7 +78,7 @@ subtitle: Completed online courses certificates
 - [Big Data 101](https://courses.cognitiveclass.ai/certificates/1465e847bcae4fddb8529f6500533263)
 - [Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/64c315258d094eacafb798b491ce6564)
 
-## (4) Udemy
+## Udemy
 
 - [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
 - [Apache Spark 2 with Python - Big Data with PySpark and Spark](https://www.udemy.com/certificate/UC-N7RHUZRB/)
@@ -92,12 +92,12 @@ subtitle: Completed online courses certificates
 - [Learn ETL using SSIS](https://www.udemy.com/certificate/UC-X4EB1KZG/)
 - [Learn SSRS Reporting in 120 minutes](https://www.udemy.com/certificate/UC-K7RC2MKG/)
 
-## (5) Pluralsight
+## Pluralsight
 
 - [Python Fundamentals](/assets/certificate/Python Fundamentals.pdf)
 - [Python: The Big Picture](/assets/certificate/Python The Big Picture.pdf)
 - [Python: Getting Started](/assets/certificate/Python Getting Started.pdf)
 
-## (6) Inria
+## Inria
 
 - [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)

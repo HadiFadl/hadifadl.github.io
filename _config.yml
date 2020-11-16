@@ -18,9 +18,9 @@ navbar-links:
   Tags: /tags
   Resume: "/resume.pdf"
   Articles:
-  - SQL Shack articles: "https://www.sqlshack.com/author/hadi/"
-  - Medium articles: "https://medium.com/@hadi.fadlullah"
-  - Data Developers Blog: "https://data-dev.blogspot.com"
+  - SQL Shack: "https://www.sqlshack.com/author/hadi/"
+  - Medium: "https://medium.com/@hadi.fadlullah"
+  - Data Developers: "https://data-dev.blogspot.com"
   Certifications:
   - Online Courses: "onlinecourses"
   About Me: "aboutme"

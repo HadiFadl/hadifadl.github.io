@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manticore search, a continuation of the Sphinx search engine
+title: 'Manticore search: a continuation of the Sphinx search engine'
 published: true
 date: '2020-09-14'
 external_url: 'https://www.sqlshack.com/manticore-search-a-continuation-of-the-sphinx-search-engine/'

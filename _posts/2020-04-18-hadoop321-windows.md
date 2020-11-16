@@ -5,6 +5,7 @@ published: true
 date: '2020-04-18'
 external_url: 'https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef'
 tags:
+  - big-data
   - hadoop
   - hadoop3
   - windows

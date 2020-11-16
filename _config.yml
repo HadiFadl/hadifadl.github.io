@@ -15,7 +15,7 @@ author: Hadi Fadlallah
 
 navbar-links:
   Home: /
-  Tags" /tags
+  Tags: /tags
   Resume: "/resume.pdf"
   Articles:
   - SQL Shack articles: "https://www.sqlshack.com/author/hadi/"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSIS Data types: Change from the Advanced Editor vs Data Conversion Transformations
+title: 'SSIS Data types: Change from the Advanced Editor vs Data Conversion Transformations'
 published: true
 date: '2019-10-04'
 external_url: 'https://www.sqlshack.com/ssis-data-types-change-from-the-advanced-editor-vs-data-conversion-transformations/'

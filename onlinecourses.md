@@ -8,25 +8,7 @@ subtitle: Completed online courses certificates
 
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
-## (2) Inria
-
-- [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)
-
-## (3) Udemy
-
-- [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
-- [Apache Spark 2 with Python - Big Data with PySpark and Spark](https://www.udemy.com/certificate/UC-N7RHUZRB/)
-- [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-5SEAFJTJ/)
-- [Power BI - The Ultimate Orientation](https://www.udemy.com/certificate/UC-43L71OQX/)
-- [Introduction to Databases and SQL Querying](https://www.udemy.com/certificate/UC-UWGYU4UW/)
-- [Advanced Databases and SQL Querying](https://www.udemy.com/certificate/UC-NS86RKK5/)
-- [Understanding Data Quality and Reference Data Management](https://www.udemy.com/certificate/UC-P1DG8L1P/)
-- [https://www.udemy.com/course/master-data-management-s/](https://www.udemy.com/certificate/UC-HO6OI79K/)
-- [Learn Python Programming Language](https://www.udemy.com/certificate/UC-UFJYENKL/)
-- [Learn ETL using SSIS](https://www.udemy.com/certificate/UC-X4EB1KZG/)
-- [Learn SSRS Reporting in 120 minutes](https://www.udemy.com/certificate/UC-K7RC2MKG/)
-
-## (4) DataCamp.com
+## (2) DataCamp.com
 
 #### Completed Career Tracks
 
@@ -70,6 +52,45 @@ subtitle: Completed online courses certificates
 - [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/2e0d5a16460b34b5b99163a30abc076eb2a3c0b7)
 - [Interactive Data Visualization with Bokeh](https://www.datacamp.com/statement-of-accomplishment/course/e4e0204a34ec14c22bc006b254cd8b9842af532b)
 
+## (3) IBM Cognitive Class
+
+#### Badges
+
+- [Big Data Foundations - Level 1](https://www.youracclaim.com/badges/e23605be-e408-451c-bcfe-39bb42530df7)
+- [Big Data Foundations - Level 2](https://www.youracclaim.com/badges/1450b59b-de55-487a-a1f9-9303a21bcf4d/public_url)
+- [Hadoop Foundations - Level 1](https://www.youracclaim.com/badges/e5029498-44de-4e7e-b2a8-3e268a7bdb38)
+- [Hadoop Foundations - Level 2](https://www.youracclaim.com/badges/b7a4bfad-88d0-4730-b92f-847a5671c921/public_url)
+- [Hadoop Programming - Level 1](https://www.youracclaim.com/badges/9d991a75-7c56-4114-8a0b-4f61336f21f4)
+- [Hadoop Programming - Level 2](https://www.youracclaim.com/badges/9c1674b3-1031-4c5f-9f71-45db878f36e3/public_url)
+- [Hadoop Data Access - Level 1](https://www.youracclaim.com/badges/2a303088-e86b-4c31-b0c9-7f30aa01619f)
+- [Hadoop Administration - Level 1](https://www.youracclaim.com/badges/afe82f3e-6877-43c6-bf61-9dab0e370fb3)
+- [Spark - Level 1](https://www.youracclaim.com/badges/a61ba205-d156-40df-a25d-a445bd2066bc)
+
+
+#### Courses
+
+- [Hadoop 101](https://courses.cognitiveclass.ai/certificates/d1672c709f574aba8c45926f6442f17f)
+- [MapReduce and YARN](https://courses.cognitiveclass.ai/certificates/a70e5f58feb6454f9cc048a7d481c032)
+- [Moving Data into Hadoop](https://courses.cognitiveclass.ai/certificates/8b6e4e41b87a460688dcc287520f50c2)
+- [Accessing Hadoop Data Using Hive](https://courses.cognitiveclass.ai/certificates/65dcc40e05f44832ac52e0c846428b91)
+- [Apache Pig 101](https://courses.cognitiveclass.ai/certificates/e1d66ac0d0074cfb91697e6937452291)
+- [Simplifying data pipelines with Apache Kafka](https://courses.cognitiveclass.ai/certificates/3a063979420c46c79f20b3e942167bb6)
+- [Big Data 101](https://courses.cognitiveclass.ai/certificates/1465e847bcae4fddb8529f6500533263)
+- [Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/64c315258d094eacafb798b491ce6564)
+
+## (4) Udemy
+
+- [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
+- [Apache Spark 2 with Python - Big Data with PySpark and Spark](https://www.udemy.com/certificate/UC-N7RHUZRB/)
+- [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-5SEAFJTJ/)
+- [Power BI - The Ultimate Orientation](https://www.udemy.com/certificate/UC-43L71OQX/)
+- [Introduction to Databases and SQL Querying](https://www.udemy.com/certificate/UC-UWGYU4UW/)
+- [Advanced Databases and SQL Querying](https://www.udemy.com/certificate/UC-NS86RKK5/)
+- [Understanding Data Quality and Reference Data Management](https://www.udemy.com/certificate/UC-P1DG8L1P/)
+- [Master Data Management](https://www.udemy.com/certificate/UC-HO6OI79K/)
+- [Learn Python Programming Language](https://www.udemy.com/certificate/UC-UFJYENKL/)
+- [Learn ETL using SSIS](https://www.udemy.com/certificate/UC-X4EB1KZG/)
+- [Learn SSRS Reporting in 120 minutes](https://www.udemy.com/certificate/UC-K7RC2MKG/)
 
 ## (5) Pluralsight
 
@@ -77,6 +98,6 @@ subtitle: Completed online courses certificates
 - [Python: The Big Picture](/assets/certificate/Python The Big Picture.pdf)
 - [Python: Getting Started](/assets/certificate/Python Getting Started.pdf)
 
-## (6) IBM Cognitive Class
+## (6) Inria
 
-
+- [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)

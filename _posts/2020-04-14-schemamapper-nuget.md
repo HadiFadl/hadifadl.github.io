@@ -2,7 +2,7 @@
 layout: post
 title: Created a Nuget package for SchemaMapper class library
 published: true
-date: '2018-04-14'
+date: '2020-04-14'
 tags:
   - c#
   - data integration

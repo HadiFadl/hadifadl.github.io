@@ -3,9 +3,7 @@ layout: post
 title: Building databases using Biml
 published: true
 date: '2020-10-14'
-cover-img: /assets/img/posts/biml.png
 thumbnail-img: /assets/img/posts/biml.png
-share-img: /assets/img/posts/biml.png
 external_url: 'https://www.sqlshack.com/building-databases-using-biml/'
 tags:
   - biml

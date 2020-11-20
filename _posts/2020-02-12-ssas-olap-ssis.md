@@ -3,7 +3,7 @@ layout: post
 title: Manipulating SSAS OLAP cubes using SSIS
 published: true
 date: '2020-02-12'
-image: /assets/img/posts/ssaslogo.jpg
+image: /assets/img/posts/ssas_logo.jpg
 external_url: 'https://www.sqlshack.com/manipulating-ssas-olap-cubes-using-ssis/'
 tags:
   - ssis

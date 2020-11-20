@@ -58,7 +58,7 @@ subtitle: Completed online courses certificates
 
 ## IBM Cognitive Class
 
-[IBM cognitive class](/assets/img/websites/cognitive-class-logo.png)
+![IBM cognitive class](/assets/img/websites/cognitive-class-logo.png)
 
 #### Badges
 

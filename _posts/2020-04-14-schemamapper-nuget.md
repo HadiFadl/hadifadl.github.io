@@ -2,7 +2,7 @@
 layout: post
 title: Created a Nuget package for SchemaMapper class library
 published: true
-image: /assets/img/mblogo.jpg
+image: /assets/img/posts/csharplogo.png
 date: '2020-04-14'
 tags:
   - c#

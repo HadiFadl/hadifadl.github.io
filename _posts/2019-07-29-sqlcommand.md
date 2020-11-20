@@ -3,6 +3,7 @@ layout: post
 title: C# - Extract objects from SQL Command
 published: true
 date: '2019-07-29'
+image: /assets/img/posts/csharplogo.png
 external_url: 'https://data-dev.blogspot.com/2019/07/c-extract-objects-from-sql-command.html'
 tags:
   - c#

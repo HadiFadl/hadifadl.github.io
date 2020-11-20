@@ -3,6 +3,7 @@ layout: post
 title: SSIS Hadoop Connection Manager and related tasks
 published: true
 date: '2020-05-11'
+image: /assets/img/posts/hadooplogo.png
 external_url: 'https://www.sqlshack.com/ssis-hadoop-connection-manager-and-related-tasks/'
 tags:
   - hadoop

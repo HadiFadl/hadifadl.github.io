@@ -3,6 +3,7 @@ layout: post
 title: Using Biml scripts to generate SSIS packages
 published: true
 date: '2020-03-13'
+image: /assets/img/posts/bimllogo.png
 external_url: 'https://www.sqlshack.com/using-biml-scripts-to-generate-ssis-packages/'
 tags:
   - biml

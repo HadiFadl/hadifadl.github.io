@@ -6,13 +6,13 @@ subtitle: Completed online courses certificates
 
 ## Developer Circles From Facebook
 
-<img src="/assets/img/websites/FacebookDeveloperCirclesHero.jpg" width="275pt" height="75pt" />
+<a href="https://developers.facebook.com/developercircles/"><img src="/assets/img/websites/FacebookDeveloperCirclesHero.jpg" width="275pt" height="75pt" /></a>
 
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
 ## Data Camp
 
-<img src="/assets/img/websites/datacamp.png" width="275pt" height="75pt" />
+<a href="https://datacamp.com"><img src="/assets/img/websites/datacamp.png" width="275pt" height="75pt" /></a>
 
 #### Completed Career Tracks
 
@@ -58,7 +58,7 @@ subtitle: Completed online courses certificates
 
 ## IBM Cognitive Class
 
-<img src="/assets/img/websites/cognitive-class-logo.png" width="275pt" height="75pt" />
+<a href="https://cognitiveclass.ai"><img src="/assets/img/websites/cognitive-class-logo.png" width="275pt" height="75pt" /></a>
 
 #### Badges
 
@@ -86,7 +86,7 @@ subtitle: Completed online courses certificates
 
 ## Udemy
 
-<img src="/assets/img/websites/udemy.jpg" width="250pt" height="75pt" />
+<a href="https://udemy.com"><img src="/assets/img/websites/udemy.jpg" width="250pt" height="75pt" /></a>
 
 - [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
 - [Apache Spark 2 with Python - Big Data with PySpark and Spark](https://www.udemy.com/certificate/UC-N7RHUZRB/)
@@ -102,7 +102,7 @@ subtitle: Completed online courses certificates
 
 ## Pluralsight
 
-<img src="/assets/img/websites/pluralsight1.png" width="275pt" height="75pt" />
+<a href="https://pluralsight.com"><img src="/assets/img/websites/pluralsight1.png" width="275pt" height="75pt" /></a>
 
 - [Python Fundamentals](/assets/certificate/Python Fundamentals.pdf)
 - [Python: The Big Picture](/assets/certificate/Python The Big Picture.pdf)
@@ -110,6 +110,6 @@ subtitle: Completed online courses certificates
 
 ## Inria
 
-<img src="/assets/img/websites/220px-Inr_logo_fr_rouge.png" width="250pt" height="75pt" />
+<a href="https://inria.fr"><img src="/assets/img/websites/220px-Inr_logo_fr_rouge.png" width="250pt" height="75pt" /></a>
 
 - [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)

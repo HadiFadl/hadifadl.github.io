@@ -11,8 +11,8 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where I have studied?
 
-<img href="https://ul.edu.lb" src= "/assets/img/aboutme/lu.png" height="200pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img href="https://usj.edu.lb" src= "/assets/img/aboutme/usj.jpg" height="200pt">
+<a href="https://ul.edu.lb"><img  src= "/assets/img/aboutme/lu.png" height="200pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://usj.edu.lb"><img src= "/assets/img/aboutme/usj.jpg" height="200pt"></a>
 
 ### Where I am currently working?
 
-<img href ="https://munchybytes.com" src= "/assets/img/mblogo.jpg" height="200pt" width="200pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img href="https://sqlshack.com" src= "/assets/img/aboutme/sqlshack.png" height="100pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img href="https://nooreedconnect.getbee.com/" src= "/assets/img/aboutme/nooreed.png" height="100pt">
+<a href ="https://munchybytes.com"><img  src= "/assets/img/mblogo.jpg" height="200pt" width="200pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sqlshack.com"><img src= "/assets/img/aboutme/sqlshack.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nooreedconnect.getbee.com/"><img  src= "/assets/img/aboutme/nooreed.png" height="100pt"></a>

@@ -3,7 +3,7 @@ layout: post
 title: 'Biml alternatives: Building SSIS packages programmatically using ManagedDTS'
 published: true
 date: '2020-03-25'
-image: /assets/img/posts/ssis.jpg
+image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-manageddts/'
 tags:
   - biml

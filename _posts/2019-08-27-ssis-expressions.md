@@ -3,6 +3,7 @@ layout: post
 title: SSIS Expression Tasks vs Evaluating variables as expressions
 published: true
 date: '2019-08-27'
+image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://www.sqlshack.com/ssis-expression-task-vs-evaluating-variable-as-expression/'
 tags:
   - ssis

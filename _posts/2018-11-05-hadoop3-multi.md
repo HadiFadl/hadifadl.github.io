@@ -3,6 +3,7 @@ layout: post
 title: Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step
 published: true
 date: '2018-11-05'
+image: /assets/img/posts/hadooplogo.png
 external_url: 'https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505'
 tags:
   - big data

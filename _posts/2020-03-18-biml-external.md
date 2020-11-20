@@ -3,6 +3,7 @@ layout: post
 title: Using external C# script files within Biml
 published: true
 date: '2020-03-18'
+image: /assets/img/posts/bimllogo.png
 external_url: 'https://www.sqlshack.com/using-external-c-script-files-within-biml/'
 tags:
   - biml

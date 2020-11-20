@@ -4,13 +4,13 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
-## Developer Circles From Facebook
+### Developer Circles From Facebook
 
 <a href="https://developers.facebook.com/developercircles/"><img src="/assets/img/websites/FacebookDeveloperCirclesHero.jpg" width="300pt" height="75pt" /></a>
 
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
-## Data Camp
+### Data Camp
 
 <a href="https://datacamp.com"><img src="/assets/img/websites/datacamp.png" width="300pt" height="75pt" /></a>
 
@@ -56,7 +56,7 @@ subtitle: Completed online courses certificates
 - [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/2e0d5a16460b34b5b99163a30abc076eb2a3c0b7)
 - [Interactive Data Visualization with Bokeh](https://www.datacamp.com/statement-of-accomplishment/course/e4e0204a34ec14c22bc006b254cd8b9842af532b)
 
-## IBM Cognitive Class
+### IBM Cognitive Class
 
 <a href="https://cognitiveclass.ai"><img src="/assets/img/websites/cognitive-class-logo.png" width="275pt" height="75pt" /></a>
 
@@ -84,7 +84,7 @@ subtitle: Completed online courses certificates
 - [Big Data 101](https://courses.cognitiveclass.ai/certificates/1465e847bcae4fddb8529f6500533263)
 - [Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/64c315258d094eacafb798b491ce6564)
 
-## Udemy
+### Udemy
 
 <a href="https://udemy.com"><img src="/assets/img/websites/udemy.jpg" width="250pt" height="75pt" /></a>
 
@@ -100,7 +100,7 @@ subtitle: Completed online courses certificates
 - [Learn ETL using SSIS](https://www.udemy.com/certificate/UC-X4EB1KZG/)
 - [Learn SSRS Reporting in 120 minutes](https://www.udemy.com/certificate/UC-K7RC2MKG/)
 
-## Pluralsight
+### Pluralsight
 
 <a href="https://pluralsight.com"><img src="/assets/img/websites/pluralsight1.png" width="275pt" height="75pt" /></a>
 
@@ -108,7 +108,7 @@ subtitle: Completed online courses certificates
 - [Python: The Big Picture](/assets/certificate/Python The Big Picture.pdf)
 - [Python: Getting Started](/assets/certificate/Python Getting Started.pdf)
 
-## Inria
+### Inria
 
 <a href="https://inria.fr"><img src="/assets/img/websites/220px-Inr_logo_fr_rouge.png" width="250pt" height="75pt" /></a>
 

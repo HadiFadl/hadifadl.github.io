@@ -6,9 +6,13 @@ subtitle: Completed online courses certificates
 
 ## Developer Circles From Facebook
 
+![Developer Circles From Facebook](/assets/img/websites/FacebookDeveloperCirclesHero.jpg)
+
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
 ## Data Camp
+
+![datacamp](/assets/img/websites/datacamp.png)
 
 #### Completed Career Tracks
 
@@ -54,6 +58,8 @@ subtitle: Completed online courses certificates
 
 ## IBM Cognitive Class
 
+[IBM cognitive class](/assets/img/websites/cognitive-class-logo.png)
+
 #### Badges
 
 - [Big Data Foundations - Level 1](https://www.youracclaim.com/badges/e23605be-e408-451c-bcfe-39bb42530df7)
@@ -80,6 +86,8 @@ subtitle: Completed online courses certificates
 
 ## Udemy
 
+![Udemy](/assets/img/websites/udemy.jpg)
+
 - [Knight's Microsoft Business Intelligence 24-Hour Trainer](https://www.udemy.com/certificate/UC-F5BJ3JLJ/)
 - [Apache Spark 2 with Python - Big Data with PySpark and Spark](https://www.udemy.com/certificate/UC-N7RHUZRB/)
 - [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-5SEAFJTJ/)
@@ -94,10 +102,14 @@ subtitle: Completed online courses certificates
 
 ## Pluralsight
 
+![Pluralsight](/assets/img/websites/pluralsight1.png)
+
 - [Python Fundamentals](/assets/certificate/Python Fundamentals.pdf)
 - [Python: The Big Picture](/assets/certificate/Python The Big Picture.pdf)
 - [Python: Getting Started](/assets/certificate/Python Getting Started.pdf)
 
 ## Inria
+
+![Inria](/assets/img/websites/220px-Inr_logo_fr_rouge.png)
 
 - [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)

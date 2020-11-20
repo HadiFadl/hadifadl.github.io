@@ -11,7 +11,7 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where I have studied?
 
-<img src= "/assets/img/aboutme/lu.png" height="200pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "/assets/img/aboutme/usj.jpg" height="200pt">
+<img href="https://ul.edu.lb" src= "/assets/img/aboutme/lu.png" height="200pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img href="https://usj.edu.lb" src= "/assets/img/aboutme/usj.jpg" height="200pt">
 
 ### Where I am currently working?
 

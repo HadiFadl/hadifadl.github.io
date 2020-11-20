@@ -3,6 +3,7 @@ layout: post
 title: 'SSIS OLE DB Source: SQL Command vs Table or View'
 published: true
 date: '2019-08-22'
+image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://www.sqlshack.com/ssis-ole-db-source-sql-command-vs-table-or-view/'
 tags:
   - ssis

@@ -3,6 +3,7 @@ layout: post
 title: Building full-text indexes using the Sphinx search engine
 published: true
 date: '2020-08-04'
+image: /assets/img/posts/sphinxlogo.png
 external_url: 'https://www.sqlshack.com/building-full-text-indexes-using-the-sphinx-search-engine/'
 tags:
   - sphinx search

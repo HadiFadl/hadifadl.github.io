@@ -6,13 +6,13 @@ subtitle: Completed online courses certificates
 
 ## Developer Circles From Facebook
 
-<a href="https://developers.facebook.com/developercircles/"><img src="/assets/img/websites/FacebookDeveloperCirclesHero.jpg" width="275pt" height="75pt" /></a>
+<a href="https://developers.facebook.com/developercircles/"><img src="/assets/img/websites/FacebookDeveloperCirclesHero.jpg" width="300pt" height="75pt" /></a>
 
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)
 
 ## Data Camp
 
-<a href="https://datacamp.com"><img src="/assets/img/websites/datacamp.png" width="275pt" height="75pt" /></a>
+<a href="https://datacamp.com"><img src="/assets/img/websites/datacamp.png" width="300pt" height="75pt" /></a>
 
 #### Completed Career Tracks
 

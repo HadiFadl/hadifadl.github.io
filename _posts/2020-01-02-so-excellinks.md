@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step
+title: SSIS Extract links from Excel cells to load into SQL
 published: true
-date: '2018-11-05'
+date: '2020-01-02'
 image: /assets/img/Stack_Overflow.png
 external_url: 'https://stackoverflow.com/questions/59536177/ssis-extract-links-from-excel-cells-to-load-into-sql/59570855#59570855'
 tags:

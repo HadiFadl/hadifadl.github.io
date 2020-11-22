@@ -6,7 +6,7 @@ subtitle: Researcher, Data Engineer, Technical Author
 
 ### Who am I?
 
-A Lebanese <a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" height="16pt" width="16pt"/></a> Researcher, Data Engineer, and Business Intelligence Developer.
+A Lebanese <a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" height="24pt" width="24pt"/></a> Researcher, Data Engineer, and Business Intelligence Developer.
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I am a technical Author at [Towards Data Science](https://towardsdatascience.com/@hadi.fadlullah) and [SQL Shack](https://www.sqlshack.com/author/hadi/).
 
 ### Where I have studied?

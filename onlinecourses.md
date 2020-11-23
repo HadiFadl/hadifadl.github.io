@@ -108,6 +108,12 @@ subtitle: Completed online courses certificates
 
 -----------------
 
+<a href="https://ul.edu.lb"><img src="/assets/img/websites/LU-banner.jpg" width="250pt" height="75pt" /></a>
+
+- [Mathematical Modeling of Life Sciences](/assets/certificate/UL_LamaLab.jpg)
+
+-----------------
+
 <a href="https://inria.fr"><img src="/assets/img/websites/220px-Inr_logo_fr_rouge.png" width="250pt" height="75pt" /></a>
 
 - [Introduction to a Web of Linked data](https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41013+self-paced_cd5351f969779cd2fcddfed921426b78.pdf)

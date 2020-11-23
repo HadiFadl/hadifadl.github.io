@@ -19,7 +19,7 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where do I spend my free time?
 
-<a href="https://stackoverflow.com/users/7031230/hadi?tab=profile"><img  src= "/assets/img/aboutme/stackoverflow_small.png" height="50pt"></a>
+<a href="https://stackexchange.com/users/9455902"><img src="https://stackexchange.com/users/flair/9455902.png" width="208" height="58" alt="profile for Hadi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hadi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### Need to know about data engineering?
 

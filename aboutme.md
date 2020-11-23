@@ -17,6 +17,10 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 <a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb.png" height="150pt" width="150pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>
 
+### Where do I spend my free time?
+
+<a href="https://stackoverflow.com/users/7031230/hadi?tab=profile"><img  src= "/assets/img/logo-stackoverflow.png" height="50pt"></a>
+
 ### Need to know about data engineering?
 
 <a href="https://nooreedconnect.getbee.com/experts/7342"><img  src= "/assets/img/aboutme/nooreed.png" height="75pt"></a>

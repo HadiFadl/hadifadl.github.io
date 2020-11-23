@@ -11,11 +11,11 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where I have studied?
 
-<a href="https://ul.edu.lb"><img  src= "/assets/img/aboutme/lu.png" height="150pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://usj.edu.lb"><img src= "/assets/img/aboutme/usj.jpg" height="150pt"></a>
+<a href="https://ul.edu.lb"><img  src= "/assets/img/aboutme/lu.png" height="125pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://usj.edu.lb"><img src= "/assets/img/aboutme/usj.jpg" height="125pt"></a>
 
 ### Where I am currently working?
 
-<a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb.png" height="150pt" width="150pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>
+<a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb.png" height="125pt" width="125pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>
 
 ### Where do I spend my free time?
 

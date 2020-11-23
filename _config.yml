@@ -17,11 +17,12 @@ navbar-links:
   Home: /
   Tags: /tags
   Resume: "/assets/doc/resume.pdf"
-  Articles:
+  Articles / Presentations:
   - SQL Shack: "https://www.sqlshack.com/author/hadi/"
   - Medium: "https://medium.com/@hadi.fadlullah"
   - Data Developers: "https://data-dev.blogspot.com"
-  Certifications:
+  - Slideshare: "https://slideshare.net/HadiFad"
+  Certificates:
   - Courses: "onlinecourses"
   - Workshops: "workshops"
   About Me: "aboutme"

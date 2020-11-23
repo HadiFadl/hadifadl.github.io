@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops / Training Courses
+title: Workshops
 subtitle: Workshop and training courses certificates
 ---
 

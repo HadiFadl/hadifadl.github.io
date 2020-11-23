@@ -18,9 +18,9 @@ subtitle: Workshop and training courses certificates
 
 <a href="https://www.facebook.com/SaitExperts"><img src="/assets/img/websites/saite.jpg" width="180pt" height="60pt" /></a>
 
-- [Ethical Hacking workshop (2017)](assets/certificate/Ethical%20Hacking.jpg)
+- [Ethical Hacking workshop (2017)](/assets/certificate/Ethical%20Hacking.jpg)
 
 <a href="https://www.facebook.com/BBMC.VPTQ"><img src="/assets/img/websites/Incubator craft.png" width="140pt" height="60pt" /></a>
 
-- [System and Network Administration (2017)](assets/certificate/System%20And%20Network%20Administration.jpg)
+- [System and Network Administration (2017)](/assets/certificate/System%20And%20Network%20Administration.jpg)
 - [Programming SQL Server (2016)](/assets/certificate/Programming%20SQL%20Server.jpg)

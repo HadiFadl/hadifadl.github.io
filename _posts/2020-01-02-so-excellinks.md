@@ -10,4 +10,4 @@ tags:
   - ssis
 subtitle: Stack Overflow
 ---
-A step-by-step guide to extract hyperlinks from excel files and store them into SQL Server using SSIS?
+A step-by-step guide to extract hyperlinks from excel files and store them into SQL Server using SSIS

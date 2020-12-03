@@ -4,6 +4,13 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+
+<a href="https://online.stanford.edu/"><img src="/assets/img/websites/stanfordonline_logo.png" width="260pt" height="60pt" /></a>
+
+- [Machine Learning](https://www.coursera.org/account/accomplishments/verify/EAKTMGVS9WGE)
+
+-----------------
+
 <a href="https://developers.facebook.com/developercircles/"><img src="/assets/img/websites/FacebookDeveloperCirclesHero.jpg" width="260pt" height="60pt" /></a>
 
 - [Data Science and Machine Learning](https://courses.edraak.org/certificates/64d173fcaa1d41d1bf3e2c36f58b526d)

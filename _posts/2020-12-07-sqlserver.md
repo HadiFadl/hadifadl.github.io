@@ -8,6 +8,6 @@ external_url: 'https://hadi-fadlullah.medium.com/nine-features-that-made-sql-ser
 tags:
   - big data
   - sql server
-subtitle: Medium
+subtitle: Munchy Bytes
 ---
 This article will briefly mention nine features added starting SQL Server 2008 that make SQL Server more than a traditional database management system.

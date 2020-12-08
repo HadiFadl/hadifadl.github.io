@@ -9,6 +9,6 @@ tags:
   - c#
   - schema Mapping
   - data integration
-subtitle: Medium
+subtitle: Munchy Bytes
 ---
 SchemaMapper is a C# data integration class library that facilitates data import process from external sources having different schema definitions.

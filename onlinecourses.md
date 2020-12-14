@@ -4,6 +4,11 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://www.ucdavis.edu/"><img src="/assets/img/websites/ucdavis.jpg" width="200pt" height="60pt" /></a>
+
+- [Healthcare Data Quality and Governance](https://www.coursera.org/account/accomplishments/verify/XTQ9T2JX7T3B)
+
+-----------------
 
 <a href="https://online.stanford.edu/"><img src="/assets/img/websites/stanfordonline_logo.png" width="260pt" height="60pt" /></a>
 

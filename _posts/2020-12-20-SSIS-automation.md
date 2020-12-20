@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Automating SSIS package creation\: ManagedDTS vs. EzAPI vs. BIML vs. ETLGen
+title: 'Automating SSIS package creation: ManagedDTS vs. EzAPI vs. BIML vs. ETLGen'
 published: true
-date: '2020-12-09'
+date: '2020-12-20'
 image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://medium.com/munchy-bytes/automating-ssis-package-creation-manageddts-vs-ezapi-vs-biml-vs-etlgen-d0dca92bf416'
 tags:

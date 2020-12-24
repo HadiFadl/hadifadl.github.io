@@ -4,6 +4,11 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://www.colorado.edu/"><img src="/assets/img/websites/colorado.PNG" width="320pt" height="60pt" /></a>
+
+- [ Clinical Data Models and Data Quality Assessments](https://www.coursera.org/account/accomplishments/certificate/WGV5V3D4F3TV)
+
+-----------------
 <a href="https://www.ucdavis.edu/"><img src="/assets/img/websites/ucdavis.jpg" width="200pt" height="60pt" /></a>
 
 - [Healthcare Data Quality and Governance](https://www.coursera.org/account/accomplishments/verify/XTQ9T2JX7T3B)

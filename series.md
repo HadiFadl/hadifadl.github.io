@@ -5,6 +5,7 @@ subtitle: List of published article series on SQL Shack and Medium publications
 ---
 
 # SQL Server technical articles series:
+----------------------------------------
 
 ## SSIS features face-to-face (11 articles): 
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.
@@ -47,7 +48,9 @@ A series that explains how to install and use this search engine to create full-
 - [Building full-text indexes using the Sphinx search engine](https://www.sqlshack.com/building-full-text-indexes-using-the-sphinx-search-engine/)
 - [Manticore search: a continuation of the Sphinx search engine](https://www.sqlshack.com/manticore-search-a-continuation-of-the-sphinx-search-engine/)
 
+------------------------------------
 # Big Data Technologies
+------------------------------------
 
 ## Installing Hadoop ecosystem technologies on Windows (4 articles)
 
@@ -61,3 +64,5 @@ A series that explains how to install and use this search engine to create full-
 - [Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step](https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505)
 - [Getting Started with Apache Kafka and Apache Flume (Import data to HDFS)](https://towardsdatascience.com/apache-kafka-and-flume-installation-guide-import-data-from-kafka-to-hdfs-c908b0df034c)
 - [Getting Started With Apache Spark, Python and PySpark](https://towardsdatascience.com/working-with-apache-spark-python-and-pyspark-128a82668e67)
+
+------------------------------------

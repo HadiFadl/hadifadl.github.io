@@ -15,9 +15,10 @@ author: Hadi Fadlallah
 
 navbar-links:
   Home: /
-  Tags: /tags
+  Tags: "tags"
   Resume: "/assets/doc/hadicv.pdf"
   Articles / Slides:
+  - Series: "series"
   - SQL Shack: "https://www.sqlshack.com/author/hadi/"
   - Medium: "https://hadi-fadlullah.medium.com/"
   - Data Developers: "https://data-dev.blogspot.com"

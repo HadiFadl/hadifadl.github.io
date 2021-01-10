@@ -18,7 +18,7 @@ navbar-links:
   Tags: "tags"
   Resume: "/assets/doc/hadicv.pdf"
   Articles / Slides:
-  - Series: "series"
+  - Published Series: "series"
   - SQL Shack: "https://www.sqlshack.com/author/hadi/"
   - Medium: "https://hadi-fadlullah.medium.com/"
   - Data Developers: "https://data-dev.blogspot.com"

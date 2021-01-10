@@ -1,3 +1,5 @@
+# Published articles series
+
 # SQL Server technical articles series:
 
 ## SSIS features face-to-face (11 articles): 
@@ -46,12 +48,12 @@ A series that explains how to install and use this search engine to create full-
 ## Installing Hadoop ecosystem technologies on Windows (4 articles)
 
 - [Installing Hadoop 3.2.1 Single node cluster on Windows 10](https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef)
-- [Installing Apache Hive 3.1.2 on Windows 10](https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79?source=your_stories_page-------------------------------------)
+- [Installing Apache Hive 3.1.2 on Windows 10](https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79)
 - [Installing Apache Pig 0.17.0 on Windows 10](https://towardsdatascience.com/installing-apache-pig-0-17-0-on-windows-10-7b19ce61900d)
 - [Reasons to not install Hadoop on Windows](https://medium.com/munchy-bytes/reasons-to-not-install-hadoop-on-windows-5bf22f3f0005)
 
 ## Installing Hadoop ecosystem technologies on Ubuntu (3 articles)
 
-- [Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step](https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505?source=your_stories_page-------------------------------------)
+- [Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step](https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505)
 - [Getting Started with Apache Kafka and Apache Flume (Import data to HDFS)](https://towardsdatascience.com/apache-kafka-and-flume-installation-guide-import-data-from-kafka-to-hdfs-c908b0df034c)
 - [Getting Started With Apache Spark, Python and PySpark](https://towardsdatascience.com/working-with-apache-spark-python-and-pyspark-128a82668e67)

@@ -4,10 +4,10 @@ title: Published series
 subtitle: List of published article series on SQL Shack and Medium publications
 ---
 
-# SQL Server technical articles series:
+## SQL Server technical articles series:
 ----------------------------------------
 
-## SSIS features face-to-face (11 articles): 
+### SSIS features face-to-face (11 articles)
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.
 
 - [SSIS OLE DB Source: SQL Command vs Table or View](https://www.sqlshack.com/ssis-ole-db-source-sql-command-vs-table-or-view/)
@@ -22,7 +22,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Foreach Loop vs For Loop Container](https://www.sqlshack.com/ssis-foreach-loop-vs-for-loop-container/)
 - [SSIS: Execute T-SQL Statement Task vs Execute SQL Task](https://www.sqlshack.com/ssis-execute-t-sql-statement-task-vs-execute-sql-task/)
 
-## Learn BIML (8 articles): 
+### Learn BIML (8 articles)
 An introduction to Business Intelligence Markup Language (BIML).
 
 - [Getting started with Biml](https://www.sqlshack.com/getting-started-with-biml/)
@@ -34,35 +34,34 @@ An introduction to Business Intelligence Markup Language (BIML).
 - [Biml alternatives: Building SSIS packages programmatically using EzAPI](https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-ezapi/)
 - [Building databases using BIML](https://www.sqlshack.com/building-databases-using-biml/)
 
-## SSIS Hadoop Components (3 articles): 
+### SSIS Hadoop Components (3 articles)
 A series that explains the SSIS Hadoop features added in SQL Server 2016.
 
 - [SSIS Hadoop Connection Manager and related tasks](https://www.sqlshack.com/ssis-hadoop-connection-manager-and-related-tasks/)
 - [Importing and Exporting data using SSIS Hadoop components](https://www.sqlshack.com/importing-and-export-data-using-ssis-hadoop-components/)
 - [Connecting to Apache Hive and Apache Pig using SSIS Hadoop components](https://www.sqlshack.com/connecting-to-apache-hive-and-apache-pig-using-ssis-hadoop-components/)
 
-## Sphinx search engine (3 articles): 
+### Sphinx search engine (3 articles)
 A series that explains how to install and use this search engine to create full-text indexes over relational databases (SQL Server).
 
 - [Getting started with Sphinx search engine](https://www.sqlshack.com/getting-started-with-sphinx-search-engine/)
 - [Building full-text indexes using the Sphinx search engine](https://www.sqlshack.com/building-full-text-indexes-using-the-sphinx-search-engine/)
 - [Manticore search: a continuation of the Sphinx search engine](https://www.sqlshack.com/manticore-search-a-continuation-of-the-sphinx-search-engine/)
 
-------------------------------------
-# Big Data Technologies
+
+## Big Data Technologies
 ------------------------------------
 
-## Installing Hadoop ecosystem technologies on Windows (4 articles)
+### Installing Hadoop ecosystem technologies on Windows (4 articles)
 
 - [Installing Hadoop 3.2.1 Single node cluster on Windows 10](https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef)
 - [Installing Apache Hive 3.1.2 on Windows 10](https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79)
 - [Installing Apache Pig 0.17.0 on Windows 10](https://towardsdatascience.com/installing-apache-pig-0-17-0-on-windows-10-7b19ce61900d)
 - [Reasons to not install Hadoop on Windows](https://medium.com/munchy-bytes/reasons-to-not-install-hadoop-on-windows-5bf22f3f0005)
 
-## Installing Hadoop ecosystem technologies on Ubuntu (3 articles)
+### Installing Hadoop ecosystem technologies on Ubuntu (3 articles)
 
 - [Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step](https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505)
 - [Getting Started with Apache Kafka and Apache Flume (Import data to HDFS)](https://towardsdatascience.com/apache-kafka-and-flume-installation-guide-import-data-from-kafka-to-hdfs-c908b0df034c)
 - [Getting Started With Apache Spark, Python and PySpark](https://towardsdatascience.com/working-with-apache-spark-python-and-pyspark-128a82668e67)
 
-------------------------------------

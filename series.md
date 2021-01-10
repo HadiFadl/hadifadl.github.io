@@ -4,7 +4,7 @@ title: Published series
 subtitle: List of published article series on SQL Shack and Medium publications
 ---
 
-### A. SQL Server technical articles series:
+<h3 align=center>SQL Server technical articles series</h3>
 
 <img  src= "/assets/img/posts/mssqllogo.jpg" height= 256pt>
 
@@ -51,7 +51,7 @@ A series that explains how to install and use this search engine to create full-
 
 ------------------------------------
 
-### B. Big Data Technologies
+<h3 align=center>Big Data Technologies</h3>
 
 <img  src= "/assets/img/posts/hadooplogo.png">
 

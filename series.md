@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Published series
 subtitle: List of published article series on SQL Shack and Medium publications
 ---

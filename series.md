@@ -1,4 +1,8 @@
-# Published articles series
+---
+layout: page
+title: Published series
+subtitle: List of published article series on SQL Shack and Medium publications
+---
 
 # SQL Server technical articles series:
 

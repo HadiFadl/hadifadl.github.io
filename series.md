@@ -48,9 +48,9 @@ A series that explains how to install and use this search engine to create full-
 - [Building full-text indexes using the Sphinx search engine](https://www.sqlshack.com/building-full-text-indexes-using-the-sphinx-search-engine/)
 - [Manticore search: a continuation of the Sphinx search engine](https://www.sqlshack.com/manticore-search-a-continuation-of-the-sphinx-search-engine/)
 
+------------------------------------
 
 ### B. Big Data Technologies
-------------------------------------
 
 #### 1. Installing Hadoop ecosystem technologies on Windows (4 articles)
 
@@ -65,3 +65,4 @@ A series that explains how to install and use this search engine to create full-
 - [Getting Started with Apache Kafka and Apache Flume (Import data to HDFS)](https://towardsdatascience.com/apache-kafka-and-flume-installation-guide-import-data-from-kafka-to-hdfs-c908b0df034c)
 - [Getting Started With Apache Spark, Python and PySpark](https://towardsdatascience.com/working-with-apache-spark-python-and-pyspark-128a82668e67)
 
+------------------------------------

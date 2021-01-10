@@ -4,9 +4,9 @@ title: Published series
 subtitle: List of published article series on SQL Shack and Medium publications
 ---
 
-<h2 align=center>SQL Server technical articles series</h2>
+<h2 align="center">SQL Server technical articles series</h2>
 
-<img align=center src= "/assets/img/posts/mssqllogo.jpg" height= 256pt>
+<img align="center" src= "/assets/img/posts/mssqllogo.jpg" height= 256pt>
 
 ### 1. SSIS features face-to-face (11 articles)
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.
@@ -51,9 +51,9 @@ A series that explains how to install and use this search engine to create full-
 
 ------------------------------------
 
-<h2 align=center>Big Data Technologies</h2>
+<h2 align="center">Big Data Technologies</h2>
 
-<img align=center src= "/assets/img/posts/hadooplogo.png">
+<img align="center" src= "/assets/img/posts/hadooplogo.png">
 
 ### 1. Installing Hadoop ecosystem technologies on Windows (4 articles)
 

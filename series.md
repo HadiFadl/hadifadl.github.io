@@ -23,7 +23,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Foreach Loop vs For Loop Container](https://www.sqlshack.com/ssis-foreach-loop-vs-for-loop-container/)
 - [SSIS: Execute T-SQL Statement Task vs Execute SQL Task](https://www.sqlshack.com/ssis-execute-t-sql-statement-task-vs-execute-sql-task/)
 
-### 2. Learn BIML (8 articles)
+### 2. Learn Biml (8 articles)
 An introduction to Business Intelligence Markup Language (BIML).
 
 - [Getting started with Biml](https://www.sqlshack.com/getting-started-with-biml/)
@@ -33,7 +33,9 @@ An introduction to Business Intelligence Markup Language (BIML).
 - [Using external C# script files within Biml](https://www.sqlshack.com/using-external-c-script-files-within-biml/)
 - [Biml alternatives: Building SSIS packages programmatically using ManagedDTS](https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-manageddts/)
 - [Biml alternatives: Building SSIS packages programmatically using EzAPI](https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-ezapi/)
-- [Building databases using BIML](https://www.sqlshack.com/building-databases-using-biml/)
+- [Building databases using Biml](https://www.sqlshack.com/building-databases-using-biml/)
+- Building SSAS OLAP cubes using Biml (unpublished)
+- Building SSAS Tabular models using Biml (unpublished)
 
 ### 3. SSIS Hadoop Components (3 articles)
 A series that explains the SSIS Hadoop features added in SQL Server 2016.

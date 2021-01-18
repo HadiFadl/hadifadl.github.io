@@ -4,6 +4,16 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://neo4j.com/graphacademy/"><img src="/assets/img/websites/graphacademy.png" height="45pt" /></a>
+
+- [Overview of Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/1e383724c66e57140f668cabfd41f2f8fc275fcfd6279131c09d8b29e19ca96a.pdf)
+- [Querying with Cypher in Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/de5ba8767972acf5b82877eeb6cb0f671ac4298068a906a513cf9ef49ff1518d.pdf)
+- [Creating Nodes and Relationships in Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/78d4b514a8be13fa7cff9399604d1e684f45321d99a68107658fcf533f597e53.pdf)
+- [Using Indexes and Query Best Practices in Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/b31055c66cedbaeade5278f78fb0dceca4be8052c010fdc3a4a9d1b1494d7f39.pdf)
+- [Importing Data with Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/55af0cea09c712e1433b1bc42500757a27d6deb411e43df09126567752749521.pdf)
+- [Basic Neo4j 4.x Administration](https://graphacademy.neo4j.com/training/certificates/c8e1bb17e62147679cb34dcf39cc52dfeb5092535564943df5fc674a5a42743e.pdf)
+
+-----------------
 <a href="https://www.colorado.edu/"><img src="/assets/img/websites/colorado.PNG" width="320pt" height="60pt" /></a>
 
 - [ Clinical Data Models and Data Quality Assessments](https://www.coursera.org/account/accomplishments/certificate/WGV5V3D4F3TV)

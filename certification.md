@@ -15,3 +15,5 @@ subtitle: List of passed exams and professional certifications
 <h2 align="center">Neo4j Certified Professional</h2>
 
 <p align="center"><a href="/assets/certificate/Neo4j CP.png"><img src="/assets/certificate/Neo4j CP.png" height= 480pt></a></p>
+
+--------------------------

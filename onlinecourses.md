@@ -4,6 +4,12 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://university.mongodb.com/"><img src="/assets/img/websites/mongodbuniversity.png" height="45pt" /></a>
+
+- [M100: MongoDB for SQL Pros](https://university.mongodb.com/course_completion/63216e50-49a8-4471-9394-d9954f5ba8f3?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
+
+-----------------
+
 <a href="https://neo4j.com/graphacademy/"><img src="/assets/img/websites/graphacademy.png" height="45pt" /></a>
 
 - [Overview of Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/1e383724c66e57140f668cabfd41f2f8fc275fcfd6279131c09d8b29e19ca96a.pdf)

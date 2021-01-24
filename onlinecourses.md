@@ -6,6 +6,7 @@ subtitle: Completed online courses certificates
 
 <a href="https://university.mongodb.com/"><img src="/assets/img/websites/mongodbuniversity.png" height="45pt" /></a>
 
+- [M001: MongoDB Basics](https://university.mongodb.com/course_completion/58cd2549-a304-4af6-870a-3078565cb01b?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 - [M100: MongoDB for SQL Pros](https://university.mongodb.com/course_completion/63216e50-49a8-4471-9394-d9954f5ba8f3?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 
 -----------------

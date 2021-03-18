@@ -23,7 +23,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Foreach Loop vs For Loop Container](https://www.sqlshack.com/ssis-foreach-loop-vs-for-loop-container/)
 - [SSIS: Execute T-SQL Statement Task vs Execute SQL Task](https://www.sqlshack.com/ssis-execute-t-sql-statement-task-vs-execute-sql-task/)
 
-### 2. Learn Biml (8 articles)
+### 2. Learn Biml (10 articles)
 An introduction to Business Intelligence Markup Language (BIML).
 
 - [Getting started with Biml](https://www.sqlshack.com/getting-started-with-biml/)
@@ -34,8 +34,8 @@ An introduction to Business Intelligence Markup Language (BIML).
 - [Biml alternatives: Building SSIS packages programmatically using ManagedDTS](https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-manageddts/)
 - [Biml alternatives: Building SSIS packages programmatically using EzAPI](https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-ezapi/)
 - [Building databases using Biml](https://www.sqlshack.com/building-databases-using-biml/)
-- Building SSAS OLAP cubes using Biml (unpublished)
-- Building SSAS Tabular models using Biml (unpublished)
+- [Building SSAS OLAP cubes using Biml](https://www.sqlshack.com/building-ssas-olap-cubes-using-biml/)
+- Building SSAS Tabular models using Biml (Under Review)
 
 ### 3. SSIS Hadoop Components (3 articles)
 A series that explains the SSIS Hadoop features added in SQL Server 2016.
@@ -51,6 +51,13 @@ A series that explains how to install and use this search engine to create full-
 - [Building full-text indexes using the Sphinx search engine](https://www.sqlshack.com/building-full-text-indexes-using-the-sphinx-search-engine/)
 - [Manticore search: a continuation of the Sphinx search engine](https://www.sqlshack.com/manticore-search-a-continuation-of-the-sphinx-search-engine/)
 
+### 5. Integrating SQL Server with NoSQL databases
+A series that explains different NoSQL database technologies, and how to integrate them with SQL Server databases
+
+- [Import data from MongoDB to SQL Server using SSIS](https://www.sqlshack.com/import-data-from-mongodb-to-sql-server-using-ssis/)
+- [Getting started with the Neo4j graph database](https://www.sqlshack.com/getting-started-with-the-neo4j-graph-database/)
+- [Migrating SQL Server graph databases to Neo4j](https://www.sqlshack.com/migrating-sql-server-graph-databases-to-neo4j/)
+- Export indexes and constraints from SQL Server graph database to Neo4j (Under Review)
 ------------------------------------
 
 <h2 align="center">Big Data Technologies</h2>

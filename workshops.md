@@ -6,12 +6,13 @@ subtitle: Workshop and training courses certificates
 
 <a href="https://docs.microsoft.com/en-us/learn/"><img src="/assets/img/websites/Microsoft-Learn.jpg" width="300pt" height="60pt" /></a>
 
-- [AI and Computer Vision](/assets/certificate/Microsoft_AI.png)
+- [AI and Computer Vision (2021)](/assets/certificate/Microsoft_AI.png)
 
 ------------------------------------
 
 <a href="https://beirutai.org/"><img src="/assets/img/websites/beirutai.jpg" width="200pt" height="60pt" /></a>
 
+- [Intoduction to AI technical workshop (2021)](/assets/certificate/IntrotoAI.png)
 - [AI Bootcamp (2021)](/assets/certificate/AiBootcamp.png)
 - [First AI weekend - Technical track (2020)](/assets/certificate/AiWeekend.png)
 

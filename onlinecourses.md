@@ -4,6 +4,12 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://www.learnquest.cz/"><img src="/assets/img/websites/LearnQuest.png" height="45pt" /></a>
+
+- [Cloud Computing Basics (Cloud 101)](https://coursera.org/share/89922b82bcce31e424fdb05a41dffb0d)
+
+-------------------------------------------
+
 <a href="https://university.mongodb.com/"><img src="/assets/img/websites/mongodbuniversity.png" height="45pt" /></a>
 
 - [M001: MongoDB Basics](https://university.mongodb.com/course_completion/58cd2549-a304-4af6-870a-3078565cb01b?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)

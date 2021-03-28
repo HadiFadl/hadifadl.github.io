@@ -25,6 +25,7 @@ subtitle: Completed online courses certificates
 - [Using Indexes and Query Best Practices in Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/b31055c66cedbaeade5278f78fb0dceca4be8052c010fdc3a4a9d1b1494d7f39.pdf)
 - [Importing Data with Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/55af0cea09c712e1433b1bc42500757a27d6deb411e43df09126567752749521.pdf)
 - [Basic Neo4j 4.x Administration](https://graphacademy.neo4j.com/training/certificates/c8e1bb17e62147679cb34dcf39cc52dfeb5092535564943df5fc674a5a42743e.pdf)
+- [Introduction to Graph Algorithms with Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/457d4489122bb2773b016e2604f29c4b27fe605cbf0ca0f5cfc768473e72079a.pdf)
 
 -----------------
 <a href="https://www.colorado.edu/"><img src="/assets/img/websites/colorado.PNG" width="320pt" height="60pt" /></a>

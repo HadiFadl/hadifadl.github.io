@@ -26,6 +26,7 @@ subtitle: Completed online courses certificates
 - [Importing Data with Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/55af0cea09c712e1433b1bc42500757a27d6deb411e43df09126567752749521.pdf)
 - [Basic Neo4j 4.x Administration](https://graphacademy.neo4j.com/training/certificates/c8e1bb17e62147679cb34dcf39cc52dfeb5092535564943df5fc674a5a42743e.pdf)
 - [Introduction to Graph Algorithms with Neo4j 4.x](https://graphacademy.neo4j.com/training/certificates/457d4489122bb2773b016e2604f29c4b27fe605cbf0ca0f5cfc768473e72079a.pdf)
+- [Using a Machine Learning Workflow for Link Prediction](https://graphacademy.neo4j.com/training/certificates/6bb553e9411a76c2a87d0d2bc45c330dbd98a132c05d2e2ddb54096e82a636bf.pdf)
 
 -----------------
 <a href="https://www.colorado.edu/"><img src="/assets/img/websites/colorado.PNG" width="320pt" height="60pt" /></a>

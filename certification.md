@@ -6,9 +6,9 @@ subtitle: List of passed exams and professional certifications
 
 --------------------------
 
-<h2 align="center">Neo4j 4.0 Certified</h2>
+<h2 align="center">Neo4j Graph Data Science Certified</h2>
 
-<p align="center"><a href="/assets/certificate/Neo4jGraphDataScience.jpg"><img src="/assets/certificate/Neo4jGraphDataScience.jpg" style="width: 25%; height: 25%"></a></p>
+<p align="center"><a href="/assets/certificate/Neo4jGraphDataScience.jpg"><img src="/assets/certificate/Neo4jGraphDataScience.jpg" style="width: 50%; height: 50%"></a></p>
 
 --------------------------
 

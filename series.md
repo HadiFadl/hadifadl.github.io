@@ -35,7 +35,7 @@ An introduction to Business Intelligence Markup Language (BIML).
 - [Biml alternatives: Building SSIS packages programmatically using EzAPI](https://www.sqlshack.com/biml-alternatives-building-ssis-packages-programmatically-using-ezapi/)
 - [Building databases using Biml](https://www.sqlshack.com/building-databases-using-biml/)
 - [Building SSAS OLAP cubes using Biml](https://www.sqlshack.com/building-ssas-olap-cubes-using-biml/)
-- Building SSAS Tabular models using Biml (Under Review)
+- [Building SSAS Tabular models using Biml](https://www.sqlshack.com/building-ssas-tabular-models-using-biml/)
 
 ### 3. SSIS Hadoop Components (3 articles)
 A series that explains the SSIS Hadoop features added in SQL Server 2016.

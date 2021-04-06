@@ -57,7 +57,7 @@ A series that explains different NoSQL database technologies, and how to integra
 - [Import data from MongoDB to SQL Server using SSIS](https://www.sqlshack.com/import-data-from-mongodb-to-sql-server-using-ssis/)
 - [Getting started with the Neo4j graph database](https://www.sqlshack.com/getting-started-with-the-neo4j-graph-database/)
 - [Migrating SQL Server graph databases to Neo4j](https://www.sqlshack.com/migrating-sql-server-graph-databases-to-neo4j/)
-- Export indexes and constraints from SQL Server graph database to Neo4j (Under Review)
+- [Export indexes and constraints from SQL Server graph database to Neo4j](https://www.sqlshack.com/export-indexes-and-constraints-from-sql-server-graph-databases-to-neo4j/)
 - Migrating SQL Server graph databases to ArangoDB (Under Writing)
 
 ------------------------------------

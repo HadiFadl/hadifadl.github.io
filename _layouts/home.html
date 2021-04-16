@@ -14,12 +14,12 @@ layout: page
 	{% else %}
 	<a href="{{ post.url | relative_url }}">
 	{% endif %}
-      <h3 class="post-title">{{ post.title }}</h3>
+      <h2 class="post-title">{{ post.title }}</h2>
 
       {% if post.subtitle %}
-        <h4 class="post-subtitle">
+        <h3 class="post-subtitle">
         {{ post.subtitle }}
-        </h4>
+        </h3>
       {% endif %}
     </a>
 

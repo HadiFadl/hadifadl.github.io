@@ -6,7 +6,8 @@ date: '2021-04-16'
 image: /assets/img/posts/mssqllogo.jpg
 external_url: 'https://www.sqlshack.com/working-with-parameters-in-the-sp_executesql-stored-procedure/'
 tags:
-  - T-SQL
+  - dynamic sql
+  - sp_executesql
   - sql server
 subtitle: SQL Shack
 ---

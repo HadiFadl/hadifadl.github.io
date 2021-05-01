@@ -4,6 +4,12 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://academy.zaka.ai/"><img src="/assets/img/websites/zaka.png" height="45pt" /></a>
+
+- [Getting Started with Python for Data Science](https://academy.zaka.ai/certificates/paidxidpbv)
+
+-------------------------------------------
+
 <a href="https://www.learnquest.cz/"><img src="/assets/img/websites/LearnQuest.png" height="45pt" /></a>
 
 - [Cloud Computing Basics (Cloud 101)](https://coursera.org/share/89922b82bcce31e424fdb05a41dffb0d)

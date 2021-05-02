@@ -10,6 +10,14 @@ subtitle: Completed online courses certificates
 
 -------------------------------------------
 
+<a href="https://www.britishcouncil.org.lb/en"><img src="/assets/img/websites/britishcouncil.png" height="45pt" /></a>
+
+- [English Conversational Skills for Beginners (1)](https://courses.edraak.org/certificates/6bf6ab0ef80c4be9a84b7b35aa5a4a25)
+- [English Conversational Skills for Beginners (2)](https://courses.edraak.org/certificates/681ed66a7e2444838eccd218bafb5931)
+- [English Conversational Skills for Beginners (3)](https://courses.edraak.org/certificates/94bc0bf8e98b4306ae613d5abc82598c)
+
+-------------------------------------------
+
 <a href="https://www.learnquest.cz/"><img src="/assets/img/websites/LearnQuest.png" height="45pt" /></a>
 
 - [Cloud Computing Basics (Cloud 101)](https://coursera.org/share/89922b82bcce31e424fdb05a41dffb0d)

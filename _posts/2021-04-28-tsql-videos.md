@@ -3,7 +3,7 @@ layout: post
 title: Top free T-SQL training videos
 published: true
 date: '2021-04-28'
-image: /assets/img/posts/mssqllogo.jpg
+image: /assets/img/posts/tsql.png
 external_url: 'https://www.sqlshack.com/top-free-t-sql-training-videos/'
 tags:
   - tsql

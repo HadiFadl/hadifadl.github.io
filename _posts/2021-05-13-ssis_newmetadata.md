@@ -1,12 +1,12 @@
 ---
 layout: post
-title: An overview of the VS_NEEDSNEWMETADATA SSIS exception
+title: SSIS Lookup transformation vs. Fuzzy Lookup transformation
 published: true
-date: '2021-05-13'
+date: '2021-07-28'
 image: /assets/img/posts/ssislogo.jpg
-external_url: 'https://www.sqlshack.com/an-overview-of-the-vs_needsnewmetadata-ssis-exception/'
+external_url: 'https://www.sqlshack.com/ssis-lookup-transformations-vs-fuzzy-lookup-transformations/'
 tags:
   - ssis
 subtitle: SQL Shack
 ---
-In this article, we will briefly explain the VS_NEEDSNEWMETADATA SSIS exception, one of the most popular exceptions that an ETL developer may face while using SSIS. Then, we will run an experiment that reproduces this error. Then, we will show how we can fix it.
+This article will explain how to use the SSIS lookup transformation and how it differs from the fuzzy lookup. This is a continuation of the SSIS features face-to-face series that we published previously on this website.

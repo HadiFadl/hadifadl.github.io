@@ -3,7 +3,7 @@ layout: post
 title: SSIS Foreach Loop vs For Loop Container
 published: true
 date: '2019-12-04'
-image: /assets/img/posts/versus.jpg
+image: /assets/img/posts/versus2.jpg
 external_url: 'https://www.sqlshack.com/ssis-foreach-loop-vs-for-loop-container/'
 tags:
   - ssis

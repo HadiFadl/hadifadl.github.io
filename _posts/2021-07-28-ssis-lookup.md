@@ -3,7 +3,7 @@ layout: post
 title: An overview of the VS_NEEDSNEWMETADATA SSIS exception
 published: true
 date: '2021-05-13'
-image: /assets/img/posts/versus.jpg
+image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://www.sqlshack.com/an-overview-of-the-vs_needsnewmetadata-ssis-exception/'
 tags:
   - ssis

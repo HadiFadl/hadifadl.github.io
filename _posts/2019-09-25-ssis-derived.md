@@ -3,7 +3,7 @@ layout: post
 title: SSIS Derived Columns with Multiple Expressions vs Multiple Transformations
 published: true
 date: '2019-09-25'
-image: /assets/img/posts/ssislogo.jpg
+image: /assets/img/posts/versus2.jpg
 external_url: 'https://www.sqlshack.com/ssis-derived-columns-with-multiple-expressions-vs-multiple-transformations/'
 tags:
   - ssis

@@ -22,6 +22,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Flat Files vs Raw Files](https://www.sqlshack.com/ssis-flat-files-vs-raw-files/)
 - [SSIS Foreach Loop vs For Loop Container](https://www.sqlshack.com/ssis-foreach-loop-vs-for-loop-container/)
 - [SSIS: Execute T-SQL Statement Task vs Execute SQL Task](https://www.sqlshack.com/ssis-execute-t-sql-statement-task-vs-execute-sql-task/)
+- [SSIS Lookup transformation vs. Fuzzy Lookup transformation](https://www.sqlshack.com/ssis-lookup-transformations-vs-fuzzy-lookup-transformations/)
 
 ### 2. Learn Biml (10 articles)
 An introduction to Business Intelligence Markup Language (BIML).

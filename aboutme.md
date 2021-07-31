@@ -26,3 +26,10 @@ I have been working with SQL Server (and related technologies) for more than 10 
 ### Need to know about data engineering?
 
 <a href="https://nooreedconnect.getbee.com/experts/7342"><img  src= "/assets/img/aboutme/nooreed.png" height="75pt"></a>
+
+### Applications I use while writing articles and answering questions
+
+- Tool for making screenshots: [Greenshot](https://getgreenshot.org/)
+- Testing SSIS expression: [SSIS Expression editor](https://github.com/sqlgreen/SSIS-Expression-Editor)
+- Online SQL query testing: [SQL Fiddle](http://sqlfiddle.com/)
+- Grammar and Spell Checking: [Grammarly](https://grammarly.com/)

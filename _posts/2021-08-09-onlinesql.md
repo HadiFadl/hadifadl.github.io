@@ -3,7 +3,7 @@ layout: post
 title: Popular free SQL online compilers
 published: true
 date: '2021-08-09'
-image: /assets/img/posts/tsql.png
+image: /assets/img/posts/sql.png
 external_url: 'https://www.sqlshack.com/popular-free-sql-online-compilers/'
 tags:
   - sql

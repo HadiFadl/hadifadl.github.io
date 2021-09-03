@@ -29,6 +29,7 @@ subtitle: Completed online courses certificates
 - [M001: MongoDB Basics](https://university.mongodb.com/course_completion/58cd2549-a304-4af6-870a-3078565cb01b?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 - [M100: MongoDB for SQL Pros](https://university.mongodb.com/course_completion/63216e50-49a8-4471-9394-d9954f5ba8f3?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 - [M103: Basic Cluster Administration](https://university.mongodb.com/course_completion/e822bb9e-5a86-4b50-a61d-1f8c9e866d81?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
+- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/df86bb7c-d93b-408a-8b81-fd40ae1f9dd8?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 
 -----------------
 

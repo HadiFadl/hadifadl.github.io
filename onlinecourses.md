@@ -32,6 +32,7 @@ subtitle: Completed online courses certificates
 - [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/df86bb7c-d93b-408a-8b81-fd40ae1f9dd8?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 - [M220N: MongoDB for .NET Developers](https://university.mongodb.com/course_completion/6a5d8e52-0a7c-4aa5-9a9d-ae25e5fccba4?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 - [M201: MongoDB Performance](https://university.mongodb.com/course_completion/6243952f-e1ae-4e7b-89ca-23d0f4807f3a?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
+- [M320: Data Modeling](https://university.mongodb.com/course_completion/d18fa3f9-a918-476b-a679-acdf9ffa513d?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 
 -----------------
 

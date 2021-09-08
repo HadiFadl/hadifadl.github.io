@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSIS Pivot transformations vs. Unpivot transformations
+title: SSIS Pivot transformation vs. Unpivot transformation
 published: true
 date: '2021-09-08'
 image: /assets/img/posts/versus2.jpg

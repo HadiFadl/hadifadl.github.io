@@ -4,7 +4,7 @@ title: Published series
 subtitle: List of published article series on SQL Shack and Medium publications
 ---
 
-<h3 align="center">SSIS features face-to-face (17 articles)</h3>
+<h3 align="center">SSIS features face-to-face (18 articles)</h3>
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.
 
 - [SSIS OLE DB Source: SQL Command vs Table or View](https://www.sqlshack.com/ssis-ole-db-source-sql-command-vs-table-or-view/)

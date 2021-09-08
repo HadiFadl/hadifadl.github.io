@@ -2,7 +2,7 @@
 layout: post
 title: SSIS Pivot transformations vs. Unpivot transformations
 published: true
-date: '2021-08-09'
+date: '2021-09-08'
 image: /assets/img/posts/versus2.jpg
 external_url: 'https://www.sqlshack.com/ssis-pivot-transformations-vs-unpivot-transformations/'
 tags:

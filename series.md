@@ -24,6 +24,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - Data access modes in SSIS OLE DB Destination: SQL Command vs. Table or View (Under Review)
 - SSIS XML Source vs. XML Task (Under Review)
 - SSIS Script Task vs. Script Component (Under Review)
+- SSIS term extraction vs. term lookup (Under Review)
 
 <h3 align="center">Learn Biml (10 articles)</h3>
 An introduction to Business Intelligence Markup Language (BIML).

@@ -63,6 +63,7 @@ A series that explains different NoSQL database technologies, and how to integra
 - [Migrating SQL Server graph databases to ArangoDB](https://www.sqlshack.com/migrating-sql-server-graph-databases-to-arangodb/)
 
 <h2 align="center">Installing Hadoop ecosystem technologies on Windows (4 articles)</h2>
+A series that helps system administrator or data engineers while installing Big Data technologies on Windows operating system
 
 - [Installing Hadoop 3.2.1 Single node cluster on Windows 10](https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef)
 - [Installing Apache Hive 3.1.2 on Windows 10](https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79)
@@ -70,6 +71,7 @@ A series that explains different NoSQL database technologies, and how to integra
 - [Reasons to not install Hadoop on Windows](https://medium.com/munchy-bytes/reasons-to-not-install-hadoop-on-windows-5bf22f3f0005)
 
 <h2 align="center">Installing Hadoop ecosystem technologies on Ubuntu (3 articles)</h2>
+A series that helps system administrator or data engineers while installing Big Data technologies on Ubuntu operating system
 
 - [Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step](https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505)
 - [Getting Started with Apache Kafka and Apache Flume (Import data to HDFS)](https://towardsdatascience.com/apache-kafka-and-flume-installation-guide-import-data-from-kafka-to-hdfs-c908b0df034c)

@@ -23,10 +23,11 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Foreach Loop vs For Loop Container](https://www.sqlshack.com/ssis-foreach-loop-vs-for-loop-container/)
 - [SSIS: Execute T-SQL Statement Task vs Execute SQL Task](https://www.sqlshack.com/ssis-execute-t-sql-statement-task-vs-execute-sql-task/)
 - [SSIS Lookup transformation vs. Fuzzy Lookup transformation](https://www.sqlshack.com/ssis-lookup-transformations-vs-fuzzy-lookup-transformations/)
-- SSIS Pivot transformation vs. Unpivot transformation (Under Review)
+- [SSIS Pivot transformation vs. Unpivot transformation](https://www.sqlshack.com/ssis-pivot-transformations-vs-unpivot-transformations/)
 - SSIS Merge Join vs. Merge transformation (Under Review)
 - Data access modes in SSIS OLE DB Destination: SQL Command vs. Table or View (Under Review)
 - SSIS XML Source vs. XML Task (Under Review)
+- SSIS Script Task vs. Script Component (Under Review)
 
 ### 2. Learn Biml (10 articles)
 An introduction to Business Intelligence Markup Language (BIML).

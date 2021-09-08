@@ -4,11 +4,7 @@ title: Published series
 subtitle: List of published article series on SQL Shack and Medium publications
 ---
 
-<h2 align="center">SQL Server technical articles series</h2>
-
-<p align="center"><img src= "/assets/img/posts/mssqllogo.jpg" height= 256pt></p>
-
-### 1. SSIS features face-to-face (17 articles)
+<h2 align="center">SSIS features face-to-face (17 articles)</h2>
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.
 
 - [SSIS OLE DB Source: SQL Command vs Table or View](https://www.sqlshack.com/ssis-ole-db-source-sql-command-vs-table-or-view/)
@@ -29,7 +25,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - SSIS XML Source vs. XML Task (Under Review)
 - SSIS Script Task vs. Script Component (Under Review)
 
-### 2. Learn Biml (10 articles)
+<h2 align="center">Learn Biml (10 articles)</h2>
 An introduction to Business Intelligence Markup Language (BIML).
 
 - [Getting started with Biml](https://www.sqlshack.com/getting-started-with-biml/)
@@ -43,21 +39,21 @@ An introduction to Business Intelligence Markup Language (BIML).
 - [Building SSAS OLAP cubes using Biml](https://www.sqlshack.com/building-ssas-olap-cubes-using-biml/)
 - [Building SSAS Tabular models using Biml](https://www.sqlshack.com/building-ssas-tabular-models-using-biml/)
 
-### 3. SSIS Hadoop Components (3 articles)
+<h2 align="center">SSIS Hadoop Components (3 articles)</h2>
 A series that explains the SSIS Hadoop features added in SQL Server 2016.
 
 - [SSIS Hadoop Connection Manager and related tasks](https://www.sqlshack.com/ssis-hadoop-connection-manager-and-related-tasks/)
 - [Importing and Exporting data using SSIS Hadoop components](https://www.sqlshack.com/importing-and-export-data-using-ssis-hadoop-components/)
 - [Connecting to Apache Hive and Apache Pig using SSIS Hadoop components](https://www.sqlshack.com/connecting-to-apache-hive-and-apache-pig-using-ssis-hadoop-components/)
 
-### 4. Sphinx search engine (3 articles)
+<h2 align="center">Sphinx search engine (3 articles)</h2>
 A series that explains how to install and use this search engine to create full-text indexes over relational databases (SQL Server).
 
 - [Getting started with Sphinx search engine](https://www.sqlshack.com/getting-started-with-sphinx-search-engine/)
 - [Building full-text indexes using the Sphinx search engine](https://www.sqlshack.com/building-full-text-indexes-using-the-sphinx-search-engine/)
 - [Manticore search: a continuation of the Sphinx search engine](https://www.sqlshack.com/manticore-search-a-continuation-of-the-sphinx-search-engine/)
 
-### 5. Integrating SQL Server with NoSQL databases (5 articles)
+<h2 align="center">Integrating SQL Server with NoSQL databases (5 articles)</h2>
 A series that explains different NoSQL database technologies, and how to integrate them with SQL Server databases
 
 - [Import data from MongoDB to SQL Server using SSIS](https://www.sqlshack.com/import-data-from-mongodb-to-sql-server-using-ssis/)
@@ -66,20 +62,14 @@ A series that explains different NoSQL database technologies, and how to integra
 - [Export indexes and constraints from SQL Server graph database to Neo4j](https://www.sqlshack.com/export-indexes-and-constraints-from-sql-server-graph-databases-to-neo4j/)
 - [Migrating SQL Server graph databases to ArangoDB](https://www.sqlshack.com/migrating-sql-server-graph-databases-to-arangodb/)
 
-------------------------------------
-
-<h2 align="center">Big Data Technologies</h2>
-
-<p align="center"><img src= "/assets/img/posts/hadooplogo.png"></p>
-
-### 1. Installing Hadoop ecosystem technologies on Windows (4 articles)
+<h2 align="center">Installing Hadoop ecosystem technologies on Windows (4 articles)</h2>
 
 - [Installing Hadoop 3.2.1 Single node cluster on Windows 10](https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef)
 - [Installing Apache Hive 3.1.2 on Windows 10](https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79)
 - [Installing Apache Pig 0.17.0 on Windows 10](https://towardsdatascience.com/installing-apache-pig-0-17-0-on-windows-10-7b19ce61900d)
 - [Reasons to not install Hadoop on Windows](https://medium.com/munchy-bytes/reasons-to-not-install-hadoop-on-windows-5bf22f3f0005)
 
-### 2. Installing Hadoop ecosystem technologies on Ubuntu (3 articles)
+<h2 align="center">Installing Hadoop ecosystem technologies on Ubuntu (3 articles)</h2>
 
 - [Installing Hadoop 3.1.0 multi-node cluster on Ubuntu 16.04 Step by Step](https://towardsdatascience.com/installing-hadoop-3-1-0-multi-node-cluster-on-ubuntu-16-04-step-by-step-8d1954b31505)
 - [Getting Started with Apache Kafka and Apache Flume (Import data to HDFS)](https://towardsdatascience.com/apache-kafka-and-flume-installation-guide-import-data-from-kafka-to-hdfs-c908b0df034c)

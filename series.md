@@ -22,7 +22,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Pivot transformation vs. Unpivot transformation](https://www.sqlshack.com/ssis-pivot-transformations-vs-unpivot-transformations/)
 - [SSIS Merge Join vs. Merge transformation](https://www.sqlshack.com/ssis-merge-join-vs-merge-transformation/)
 - [Data access modes in SSIS OLE DB Destination: SQL Command vs. Table or View](https://www.sqlshack.com/data-access-modes-in-ssis-ole-db-destination-sql-command-vs-table-or-view/)
-- SSIS XML Source vs. XML Task (Under Review)
+- [SSIS XML Source vs. XML Task](https://www.sqlshack.com/ssis-xml-source-vs-xml-task/) (Under Review)
 - SSIS Script Task vs. Script Component (Under Review)
 - SSIS term extraction vs. term lookup (Under Review)
 

@@ -11,6 +11,7 @@ tags:
   - hadoop 3
   - windows
   - windows 10
+  - tds
 subtitle: Towards Data Science
 ---
 While working on a project, we were asked to install Apache Hive on a Windows 10 operating system. Many guides were found online but unfortunately, they didn’t work. For this reason, I decided to write a step-by-step guide to help others.

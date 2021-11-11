@@ -8,6 +8,7 @@ tags:
   - big data
   - data integration
   - data engineering
+  - tds
 subtitle: Towards Data Science
 ---
 Data integration is a set of processes used to retrieve and combine data from disparate sources into meaningful and valuable information. A complete data integration solution delivers trusted data from a variety of sources. Traditional data integration techniques was mainly based on ETL (extract, transform and Load) process to ingest and clean data then load it into a data warehouse.

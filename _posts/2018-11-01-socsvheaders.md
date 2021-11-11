@@ -7,6 +7,7 @@ image: /assets/img/Stack_Overflow.png
 external_url: 'https://stackoverflow.com/questions/53096602/how-to-check-column-structure-in-ssis/53105919#53105919'
 tags:
   - ssis
+  - stack overflow
 subtitle: Stack Overflow
 ---
 A solution for validating flat files headers using SSIS script component.

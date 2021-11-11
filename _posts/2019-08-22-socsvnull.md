@@ -8,6 +8,7 @@ external_url: 'https://stackoverflow.com/questions/17337327/ssis-flat-file-could
 tags:
   - ssis
   - csv
+  - stack overflow
 subtitle: Stack Overflow
 ---
 Handling NUL (\x00) value in flat files using SQL Server Integration Services.

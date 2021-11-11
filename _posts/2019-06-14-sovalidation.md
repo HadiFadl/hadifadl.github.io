@@ -9,6 +9,7 @@ tags:
   - ssis
   - sql server
   - stack overflow
+  - tds
 subtitle: Stack Overflow
 ---
 Explaining the validation types performed when using OLE DB destination component in SSIS

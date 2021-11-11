@@ -7,6 +7,7 @@ external_url: 'https://towardsdatascience.com/do-you-really-need-to-implement-bi
 tags:
   - big data
   - data engineering
+  - tds
 subtitle: Towards Data Science
 ---
 From many years, “Big Data” has become widespread and trendy. The Big Data technologies started to fill the gap between the traditional data technologies (RDBMS, File systems … ) and the high evolution of the data and business needs.

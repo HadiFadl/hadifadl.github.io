@@ -8,6 +8,7 @@ external_url: 'https://stackoverflow.com/questions/59536177/ssis-extract-links-f
 tags:
   - excel
   - ssis
+  - stack overflow
 subtitle: Stack Overflow
 ---
 A step-by-step guide to extract hyperlinks from excel files and store them into SQL Server using SSIS

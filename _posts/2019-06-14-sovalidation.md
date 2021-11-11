@@ -8,6 +8,7 @@ external_url: 'https://stackoverflow.com/questions/56596650/fast-load-error-outp
 tags:
   - ssis
   - sql server
+  - stack overflow
 subtitle: Stack Overflow
 ---
 Explaining the validation types performed when using OLE DB destination component in SSIS

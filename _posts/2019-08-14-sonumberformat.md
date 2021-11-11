@@ -8,6 +8,7 @@ external_url: 'https://stackoverflow.com/questions/57460180/c-sharp-script-in-ss
 tags:
   - ssis
   - excel
+  - stack overflow
 subtitle: Stack Overflow
 ---
 Using NumberFormat property while manipulating Microsoft Excel worksheets using SSIS.

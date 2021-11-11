@@ -9,6 +9,7 @@ tags:
   - ssis
   - oracle
   - sql server
+  - stack overflow
 subtitle: Stack Overflow
 ---
 How to filter data in Oracle based on a SQL Server query result?

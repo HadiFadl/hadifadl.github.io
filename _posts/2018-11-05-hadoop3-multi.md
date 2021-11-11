@@ -11,6 +11,7 @@ tags:
   - hadoop 3
   - ubuntu
   - ubuntu 16
+  - tds
 subtitle: Towards Data Science
 ---
 There are many links on the web about install Hadoop 3. Many of them are not working well or need improvements. This article is taken from the official documentation and other articles in addition of many answers from Stackoverflow.com

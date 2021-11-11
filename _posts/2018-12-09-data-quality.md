@@ -7,6 +7,7 @@ external_url: 'https://towardsdatascience.com/an-introduction-to-data-quality-95
 tags:
   - data quality
   - data engineering
+  - tds
 subtitle: Towards Data Science
 ---
 There are many definitions of data quality, in general, data quality is the assessment of how much the data is usable and fits its serving context.

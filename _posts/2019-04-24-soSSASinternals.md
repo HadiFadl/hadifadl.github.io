@@ -8,6 +8,7 @@ external_url: 'https://stackoverflow.com/questions/55792689/retrieve-multidimens
 tags:
   - ssas
   - olap
+  - stack overflow
 subtitle: Stack Overflow
 ---
 Explaining the contents hierarchy of the SSAS multidimensional cube data directory.

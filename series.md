@@ -23,7 +23,7 @@ A series that aims to remove any confusion and to illustrate some of the differe
 - [SSIS Merge Join vs. Merge transformation](https://www.sqlshack.com/ssis-merge-join-vs-merge-transformation/)
 - [Data access modes in SSIS OLE DB Destination: SQL Command vs. Table or View](https://www.sqlshack.com/data-access-modes-in-ssis-ole-db-destination-sql-command-vs-table-or-view/)
 - [SSIS XML Source vs. XML Task](https://www.sqlshack.com/ssis-xml-source-vs-xml-task/)
-- SSIS Script Task vs. Script Component (Under Review)
+- [SSIS Script Task vs. Script Component](https://www.sqlshack.com/ssis-script-task-vs-script-component/)
 - SSIS term extraction vs. term lookup (Under Review)
 
 <h3 align="center">Learn Biml (10 articles)</h3>

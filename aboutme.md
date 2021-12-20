@@ -9,7 +9,7 @@ subtitle: Researcher, Data Engineer, Technical Author
 A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" height="24pt" width="24pt"/></a></sup> Researcher, Data Engineer, and Business Intelligence Developer.
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I am a technical Author at [Towards Data Science](https://hadi-fadlullah.medium.com/) and [SQL Shack](https://www.sqlshack.com/author/hadi/).
 
-<img  src= "/assets/badges/Neo4jCP.jpeg" height="125pt"> <img  src= "/assets/badges/Neo4j4.jpg" height="125pt"> <img  src= "/assets/badges/Neo4j_GDS.png" height="125pt"> <img  src= "/assets/badges/ArangoDB-Certificate.png" width="160pt">
+<img  src= "/assets/img/aboutme/university-badges-dev-lockup.png" height="125pt"> <img  src= "/assets/badges/Neo4jCP.jpeg" height="125pt"> <img  src= "/assets/badges/Neo4j4.jpg" height="125pt"> <img  src= "/assets/badges/Neo4j_GDS.png" height="125pt"> <img  src= "/assets/badges/ArangoDB-Certificate.png" width="160pt">
 
 ### Where I have studied?
 

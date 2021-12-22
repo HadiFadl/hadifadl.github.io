@@ -13,4 +13,4 @@ tags:
 subtitle: Munchy Bytes
 ---
 Professional certification recognizes your knowledge and experience and enhances your professional credibility. Many students and developers cannot get certified since they cannot pay the certifications exams fees. After a little research on the internet, I found several database certification exams available for free by leading database providers in the market.
-In this article, I will share with you five professional certification exams you can pass for free.
+In this article, I will share with you six professional certification exams you can pass for free.

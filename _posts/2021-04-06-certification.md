@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Free data certification exams you should take!'
+title: 'Free database certification exams you should take!'
 published: true
 date: '2021-04-06'
 image: /assets/img/posts/certified.png

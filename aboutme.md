@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Researcher, Data Engineer, Technical Author
+subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
 
 ### Who am I?

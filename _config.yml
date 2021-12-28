@@ -113,7 +113,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#007474"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#FFFFFF"
+footer-link-col: "#C0E1D2"
 
 #default colors
 #navbar-col: "#EAEAEA"

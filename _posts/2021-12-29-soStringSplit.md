@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to using STRING_SPLIT on within an SSIS OLE DB Source SQL Command when the database is set to compatibility mode of 2008?'
+title: 'How to using STRING_SPLIT within an SSIS OLE DB Source SQL Command when the database compatibility level is set to  is set to SQL Server 2008?'
 published: true
 date: '2021-12-29'
 image: /assets/img/Stack_Overflow.png

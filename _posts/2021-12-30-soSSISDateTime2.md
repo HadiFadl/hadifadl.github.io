@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'https://stackoverflow.com/questions/70528019/why-is-ssis-variable-not-passing-the-millisecond-part-into-the-query/70536921#70536921'
+title: 'Why is SSIS variable not passing the millisecond part into the query?'
 published: true
 date: '2021-12-30'
 image: /assets/img/Stack_Overflow.png

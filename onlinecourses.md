@@ -4,6 +4,12 @@ title: Online courses
 subtitle: Completed online courses certificates
 ---
 
+<a href="https://university.redis.com/"></assets/img/websites/redisuniveristy.png" height="45pt" /></a>
+
+- [RU101: Introduction to Redis Data Structures](https://university.redis.com/certificates/eb21e79a917640c78ceae2e52ab01cbc)
+
+-------------------------------------------
+
 <a href="https://academy.zaka.ai/"><img src="/assets/img/websites/zaka.png" height="45pt" /></a>
 
 - [Getting Started with Python for Data Science](https://academy.zaka.ai/certificates/paidxidpbv)

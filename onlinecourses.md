@@ -8,6 +8,7 @@ subtitle: Completed online courses certificates
 
 - [RU101: Introduction to Redis Data Structures](https://university.redis.com/certificates/eb21e79a917640c78ceae2e52ab01cbc)
 - [RU202: Redis Streams](https://university.redis.com/certificates/74a0f078a8fa4066a9f81c8dedd71b3c)
+- [RU203: Querying, Indexing, and Full-Text Search](https://university.redis.com/certificates/275e9f61907c49a3bd07ea98995c3992)
 
 -------------------------------------------
 

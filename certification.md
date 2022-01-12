@@ -7,7 +7,7 @@ subtitle: List of passed exams and professional certifications
 --------------------------
 <p align="center">
   <b>Test Name:</b> Redis Certified Developer<br><b>Passing Score:</b> 81.14% (568/700) <br>
-<a href="Redis_CertifiedDeveloper_44725023.jpg"><img srcRedis_CertifiedDeveloper_44725023.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
+<a href="/assets/certificate/Redis_CertifiedDeveloper_44725023.jpg"><img src="/assets/certificate/Redis_CertifiedDeveloper_44725023.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
 </p>
 <p align="center">
   <b>Test Name:</b> C100DEV - MongoDB Certified Developer Associate Exam<br><b>Passing Score:</b> 84.33% (506/600) <br>

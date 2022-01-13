@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub repository to list professional certification exams provided at NO COST
+title: Professional Certification Exams provided at NO COST
 published: true
 image: /assets/img/posts/certified.png
 date: '2022-01-13'

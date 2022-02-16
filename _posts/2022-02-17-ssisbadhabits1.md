@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSIS Bad Habits Part 1
+title: SSIS Bad Habits - Part 1
 published: true
 date: '2022-02-17'
 image: /assets/img/posts/ssislogo.jpg

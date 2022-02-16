@@ -10,4 +10,4 @@ tags:
   - sql server
 subtitle: Munchy Bytes
 ---
-I have been working with SSIS for more than ten years and answering related questions on Stack Overflow for more than five years. During this period, I noted several bad practices that may affect the package performance used by SSIS users. I decided to start writing a series to explain those practices’ side effects and provide valuable resources. The series will be called “SSIS Bad Habits”. Each of its articles will contain one or more bad practices depending on if I already wrote about those practices on a different blog or not.
+I have been working with SSIS for more than ten years and answering related questions on Stack Overflow for more than five years. During this period, I noted several bad practices that may affect the package performance used by SSIS users. I decided to start writing a series to explain those practices’ side effects and provide valuable resources. The series will be called "SSIS Bad Habits". Each of its articles will contain one or more bad practices depending on if I already wrote about those practices on a different blog or not.

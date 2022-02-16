@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SSIS packages automation tools'
+title: SSIS packages automation tools
 published: true
 date: '2020-12-20'
 image: /assets/img/posts/ssislogo.jpg

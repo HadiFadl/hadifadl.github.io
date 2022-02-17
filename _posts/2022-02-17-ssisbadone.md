@@ -2,7 +2,7 @@
 layout: post
 title: SSIS Bad Habits - Part 1
 published: true
-date: '2022-02-17'
+date: '2022-02-16'
 image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://medium.com/munchy-bytes/ssis-bad-habits-part-1-384b67aec3ca/'
 tags:

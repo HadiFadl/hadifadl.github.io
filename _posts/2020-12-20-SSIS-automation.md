@@ -3,7 +3,7 @@ layout: post
 title: SSIS packages automation tools
 published: true
 date: '2020-12-20'
-image: /assets/img/posts/techblog_avatar.png
+image: /assets/img/posts/ssislogo.jpg
 external_url: 'https://medium.com/munchy-bytes/automating-ssis-package-creation-manageddts-vs-ezapi-vs-biml-vs-etlgen-d0dca92bf416'
 tags:
   - ssis

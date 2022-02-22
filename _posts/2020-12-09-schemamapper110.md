@@ -9,6 +9,6 @@ tags:
   - c#
   - data integration
   - schema mapping
-subtitle: Munchy Bytes
+subtitle: Tech Blog
 ---
 As in the first release (1.0.0), SchemaMapper was developed to merge data from different file types (flat file, Excel, Access …) into one SQL table. SchemaMapper 1.1.0 was released after being improved to support reading from relational databases and writing data into more data formats. Also, SchemaMapper 1.1.0 is now available via NuGet package.

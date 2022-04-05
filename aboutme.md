@@ -17,7 +17,11 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where I am currently working?
 
-<a href ="https://medium.com/munchy-bytes"><img  src= "/assets/img/aboutme/munchybytes_wb2.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usal.edu.lb/"><img src= "/assets/img/aboutme/usal2.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>
+<a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb2.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usal.edu.lb/"><img src= "/assets/img/aboutme/usal2.png" height="100pt"></a>
+
+### Blogs I write for
+
+<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mssqltips.com/sqlserverauthor/412/hadi-fadlallah/"><img src= "/assets/img/aboutme/mssql_logo.jpg" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/munchy-bytes"><img src= "/assets/img/aboutme/techblog.png" height="75pt">
 
 ### Where do I spend my free time?
 

@@ -8,6 +8,6 @@ external_url: 'https://www.mssqltips.com/sqlservertip/7195/ssis-merge-join-ssis-
 tags:
   - sql server
   - ssis
-subtitle: MSSQLTips
+subtitle: MSSQLTips.com
 ---
 This tutorial explains the main cause of the performance problem faced while merging different data sources in SQL Server Integration Services and provides a few alternatives.

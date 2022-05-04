@@ -2,7 +2,7 @@
 layout: post
 title: 'SSIS Bad Habits: Wrong OLE DB components configuration'
 published: true
-date: '2022-05-05'
+date: '2022-05-04'
 image: /assets/img/posts/badhabits.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/7239/best-practices-ssis-ole-db-components/'
 tags:

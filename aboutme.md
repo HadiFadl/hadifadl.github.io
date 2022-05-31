@@ -17,7 +17,7 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where I am currently working?
 
-<a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb2.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usal.edu.lb/"><img src= "/assets/img/aboutme/usal2.png" height="100pt"></a>
+<a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb2.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usal.edu.lb/"><img src= "/assets/img/aboutme/usal3.jpg" height="100pt"></a>
 
 ### Blogs I write for
 

@@ -10,7 +10,7 @@ I have been working with SSIS for more than ten years and answering related ques
 - [SSIS Bad Habits: Using Sort and Merge Join Components](https://www.mssqltips.com/sqlservertip/7195/ssis-merge-join-ssis-sort-performance/)
 - [SSIS Bad Habits: Inefficient Data Staging Strategies](https://www.mssqltips.com/sqlservertip/7216/ssis-load-staging-data-flow-task-bulk-insert-task/)
 - [SSIS Bad Habits: Wrong OLE DB Components configuration](https://www.mssqltips.com/sqlservertip/7239/best-practices-ssis-ole-db-components/)
-- SSIS Bad Habits: Slow Lookups (Under Review)
+- [SSIS Bad Habits: Slow Lookup transformations](https://www.mssqltips.com/sqlservertip/7271/slow-lookup-transformation-in-ssis/)
 
 <h3 align="center">SSIS features face-to-face (18 articles)</h3>
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Published series
-subtitle: List of published article series on SQL Shack and Medium publications
+subtitle: List of published article series on different blogs
 ---
 
 <h3 align="center">SSIS Bad Habits (4 articles)</h3>

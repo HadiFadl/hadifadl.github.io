@@ -6,7 +6,7 @@ subtitle: List of passed exams and professional certifications
 
 --------------------------
 <p align="center">
-  <b>Test Name:</b>QuerySurge Certified ETL Tester<br><b>Passing Score:</b> 84% (42/50) <br>
+  <b>Test Name:</b> QuerySurge Certified ETL Tester<br><b>Passing Score:</b> 84% (42/50) <br>
 <a href="/assets/certificate/CertifiedETLTester_Badge.jpg"><img src="/assets/certificate/CertifiedETLTester_Badge.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
 </p>
 <p align="center">

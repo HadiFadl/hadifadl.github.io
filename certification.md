@@ -6,7 +6,7 @@ subtitle: List of passed exams and professional certifications
 
 --------------------------
 <p align="center">
-  <b>Test Name:</b> Certified DevOps for Data Tester:</b> 90% (45/50) <br>
+  <b>Test Name:</b> Certified DevOps for Data Tester<br><b>Passing Score:</b> 90% (45/50) <br>
 <a href="/assets/certificate/CertifiedDevOpsforDataTester_Badge.jpg"><img src="/assets/certificate/CertifiedDevOpsforDataTester_Badge.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
 </p>
 <p align="center">

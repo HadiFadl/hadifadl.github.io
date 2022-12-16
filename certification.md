@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Certificates
+title: Hadi.certificates()
 subtitle: List of passed exams and professional certifications
 ---
 

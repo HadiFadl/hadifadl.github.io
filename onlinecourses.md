@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hadi.courses
+title: Hadi.courses()
 subtitle: Completed online courses certificates
 ---
 

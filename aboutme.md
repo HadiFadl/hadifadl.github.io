@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HadiFadlallah.info()
+title: Hadi.info()
 subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
 

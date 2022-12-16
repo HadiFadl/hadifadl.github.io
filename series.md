@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Published series
+title: Hadi.series()
 subtitle: List of published article series on different blogs
 ---
 

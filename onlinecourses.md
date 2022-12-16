@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Online courses
+title: Hadi.courses
 subtitle: Completed online courses certificates
 ---
 

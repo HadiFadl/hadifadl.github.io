@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
+title: Hadi.workshops()
 subtitle: Workshop and training courses certificates
 ---
 

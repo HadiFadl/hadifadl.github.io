@@ -3,7 +3,7 @@ layout: post
 title: 'MSSQLTips Rookie of the year award (2022)'
 published: true
 date: '2023-01-05'
-image: /assets/img/aboutme/mssql_logo.jpg
+image: /assets/img/posts/mssqltips400x400.png
 tags:
   - sql server
   - ssis

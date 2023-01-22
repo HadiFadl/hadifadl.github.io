@@ -21,9 +21,9 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Blogs I write for
 
-<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mssqltips.com/sqlserverauthor/412/hadi-fadlallah/"><img src= "/assets/img/aboutme/mssql_logo.jpg" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/munchy-bytes"><img src= "/assets/img/aboutme/techblog.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://towardsdatascience.com/@hadi-fadlullah"><img src= "/assets/img/aboutme/tds.png" height="75pt"></a>
+<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mssqltips.com/sqlserverauthor/412/hadi-fadlallah/?_utm_source=HadiFadlallah"><img src= "/assets/img/aboutme/mssql_logo.jpg" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/munchy-bytes"><img src= "/assets/img/aboutme/techblog.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://towardsdatascience.com/@hadi-fadlullah"><img src= "/assets/img/aboutme/tds.png" height="75pt"></a>
 
-### Where do I spend my free time?
+### Where do I spend my free time? if exists :)
 
 <a href="https://stackexchange.com/users/9455902/hadi?tab=accounts"><img src="https://stackexchange.com/users/flair/9455902.png?theme=clean" width="233" height="65" alt="profile for Hadi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hadi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 

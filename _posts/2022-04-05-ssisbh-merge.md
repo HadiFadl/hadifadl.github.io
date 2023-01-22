@@ -4,7 +4,7 @@ title: 'SSIS Bad Habits: Using Sort and Merge Join Components'
 published: true
 date: '2022-04-05'
 image: /assets/img/posts/badhabits.jpg
-external_url: 'https://www.mssqltips.com/sqlservertip/7195/ssis-merge-join-ssis-sort-performance/'
+external_url: 'https://www.mssqltips.com/sqlservertip/7195/ssis-merge-join-ssis-sort-performance/?_utm_source=HadiFadlallah'
 tags:
   - sql server
   - ssis

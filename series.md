@@ -7,12 +7,12 @@ subtitle: List of published article series on different blogs
 <h3 align="center">SSIS Bad Habits (6 articles)</h3>
 I have been working with SSIS for more than ten years and answering related questions on Stack Overflow for more than five years. During this period, I noted several bad practices that may affect the package performance used by SSIS users. I decided to start writing a series to explain those practices’ side effects and provide valuable resources.
 
-- [SSIS Bad Habits: Using Sort and Merge Join Components](https://www.mssqltips.com/sqlservertip/7195/ssis-merge-join-ssis-sort-performance/)
-- [SSIS Bad Habits: Inefficient Data Staging Strategies](https://www.mssqltips.com/sqlservertip/7216/ssis-load-staging-data-flow-task-bulk-insert-task/)
-- [SSIS Bad Habits: Wrong OLE DB Components configuration](https://www.mssqltips.com/sqlservertip/7239/best-practices-ssis-ole-db-components/)
-- [SSIS Bad Habits: Slow Lookup transformations](https://www.mssqltips.com/sqlservertip/7271/slow-lookup-transformation-in-ssis/)
-- [SSIS Bad Habits: Inefficient Data Staging Strategies - Part 2](https://www.mssqltips.com/sqlservertip/7216/ssis-load-staging-data-flow-task-bulk-insert-task/)
-- [SSIS Bad Habits: Decreasing SSIS Package Performance](https://www.mssqltips.com/sqlservertip/7475/ssis-performance-tuning-design-etl-pipelines/)
+- [SSIS Bad Habits: Using Sort and Merge Join Components](https://www.mssqltips.com/sqlservertip/7195/ssis-merge-join-ssis-sort-performance/?_utm_source=HadiFadlallah)
+- [SSIS Bad Habits: Inefficient Data Staging Strategies](https://www.mssqltips.com/sqlservertip/7216/ssis-load-staging-data-flow-task-bulk-insert-task/?_utm_source=HadiFadlallah)
+- [SSIS Bad Habits: Wrong OLE DB Components configuration](https://www.mssqltips.com/sqlservertip/7239/best-practices-ssis-ole-db-components/?_utm_source=HadiFadlallah)
+- [SSIS Bad Habits: Slow Lookup transformations](https://www.mssqltips.com/sqlservertip/7271/slow-lookup-transformation-in-ssis/?_utm_source=HadiFadlallah)
+- [SSIS Bad Habits: Inefficient Data Staging Strategies - Part 2](https://www.mssqltips.com/sqlservertip/7216/ssis-load-staging-data-flow-task-bulk-insert-task/?_utm_source=HadiFadlallah)
+- [SSIS Bad Habits: Decreasing SSIS Package Performance](https://www.mssqltips.com/sqlservertip/7475/ssis-performance-tuning-design-etl-pipelines/?_utm_source=HadiFadlallah)
 
 <h3 align="center">SSIS features face-to-face (18 articles)</h3>
 A series that aims to remove any confusion and to illustrate some of the differences between similar features provided by SQL Server Integration Services.

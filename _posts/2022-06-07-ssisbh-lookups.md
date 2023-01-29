@@ -4,7 +4,7 @@ title: 'SSIS Bad Habits: Slow lookup transformations'
 published: true
 date: '2022-06-07'
 image: /assets/img/posts/snail.jpg
-external_url: 'https://www.mssqltips.com/sqlservertip/7271/slow-lookup-transformation-in-ssis/?_utm_source=HadiFadlallah'
+external_url: 'https://www.mssqltips.com/sqlservertip/7271/slow-lookup-transformation-in-ssis/?utm_source=HadiFadlallah'
 tags:
   - sql server
   - ssis

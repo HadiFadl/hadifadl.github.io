@@ -2,7 +2,7 @@
 layout: post
 title: Why is SQL Server doing an Index Scan instead of Index Seek?
 published: true
-date: '2023-02-09'
+date: '2023-02-08'
 image: /assets/img/aboutme/inefficient.jpg
 external_url: 'https://medium.com/munchy-bytes/why-is-sql-server-doing-an-index-scan-instead-of-index-seek-cb8fd67d7f6e'
 tags:

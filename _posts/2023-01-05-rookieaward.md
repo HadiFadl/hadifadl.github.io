@@ -5,8 +5,7 @@ published: true
 date: '2023-01-05'
 image: /assets/img/posts/mssqltips400x400.png
 tags:
-  - sql server
-  - ssis
+  - awards
 subtitle: MSSQLTips.com
 ---
 

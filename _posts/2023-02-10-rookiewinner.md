@@ -9,7 +9,10 @@ tags:
 subtitle: MSSQLTips.com
 ---
 
-I am very thankful for being awarded the MSSQLTips.com Rookie of the year. I am pleased that this award was based on the [SSIS Bad Habits article series](/series.md) I published in 2022. A special thanks to Jeremy Kadlec, who encouraged me to complete this article series before the end of the year. 
+I am very thankful for being awarded the MSSQLTips.com Rookie of the year. I am pleased that this award was based on the [SSIS Bad Habits article series](/series.md) I published in 2022. A special thanks to Jeremy Kadlec, who encouraged me to complete this article series before the end of the year.
+
+<img title="MSSQLTips Rookie of the year winner" src= "/assets/badges/MSSQLTips Rookie of the year.png">
+
 Noting that new MSSQLTips.com authors in 2022 that had at least 5 published tips are qualified for the Rookie of the year award. The winner is selected based on the community, peer and leadership voting.
 
 <img title="MSSQLTips 2022 awards winners" src="/assets/img/posts/mssqltips2022awards.jpg">

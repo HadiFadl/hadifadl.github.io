@@ -95,6 +95,7 @@ subtitle: Completed online courses certificates
 
 #### Completed Courses
 
+- [Introduction to Power BI](https://www.datacamp.com/statement-of-accomplishment/course/d07523a1826970ccb003837e8a954fcc0b468f08)
 - [Intoduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/207c37860ff264bb660a462071eff6e800164424)
 - [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/f99748866482a000e1028af1f430d7073aed26ae)
 - [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/902c88ce905b6ef1743e16ac7d42c53d7aff8858)

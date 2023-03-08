@@ -6,6 +6,10 @@ subtitle: List of passed exams and professional certifications
 
 --------------------------
 <p align="center">
+  <b>MSSQLTips.com 2022 Rookie of the Year award</b> <br>
+<a href="/assets/certificate/Hadi_2022RookieoftheYear.jpg"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
+</p>
+<p align="center">
   <b>Test Name:</b> HackerRank SQL (Advanced) skill assessment<br><b>Passing Score:</b> 100% (2/2) <br>
 <a href="/assets/certificate/HackerRank_AdvancedSQL.jpg"><img src="/assets/certificate/HackerRank_AdvancedSQL.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
 </p>

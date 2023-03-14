@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hadi.courses()
+title: Me.OnlineCourses()
 subtitle: Completed online courses certificates
 ---
 

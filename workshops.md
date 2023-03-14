@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hadi.workshops()
+title: Me.AttendedWorkshops()
 subtitle: Workshop and training courses certificates
 ---
 

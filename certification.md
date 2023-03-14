@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hadi.certificates()
+title: Me.Certificates()
 subtitle: List of passed exams and professional certifications
 ---
 

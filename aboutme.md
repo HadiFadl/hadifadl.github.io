@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hadi.info()
+title: Me.info()
 subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
 

@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Me.info()
+title: Hadi Fadlallah
 subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
+
+<p align="center">
+<img src="/assets/img/linkedinProfile.jpg">
+</p>
 
 ### Who am I?
 

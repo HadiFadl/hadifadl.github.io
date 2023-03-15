@@ -4,8 +4,8 @@ title: Hadi Fadlallah
 subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
 
-<p align="center">
-<img src="/assets/img/linkedinProfile.jpg">
+<p align="center" >
+<img src="/assets/img/linkedinProfile.jpg" style=”border:1px solid #000000">
 </p>
 
 ### Who am I?
@@ -14,14 +14,6 @@ A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/asset
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I write scientific and technical articles on several blogs.
 
 <a href="https://www.mssqltips.com/sqlservertip/7578/mssqltipscom-authors-and-rookie-of-2022/?utm_source=HadiFadlallah"><img title="MSSQLTips Rookie of the year winner" src= "/assets/badges/MSSQLTips Rookie of the year.png"></a> <img title="QuerySurge Certified DevOps for Data Tester" src= "/assets/badges/certified-devops-for-data-tester.png" height="125pt"> <img title="QuerySurge Certified ETL Tester" src= "/assets/badges/certified-etl-tester.png" height="125pt"> <img title="Redis Certified Developer" src= "/assets/badges/Redis-Certified-Developer.png" height="125pt"><img title="MongoDB Certified Developer Associate" src= "/assets/img/aboutme/university-badges-dev-lockup.png" height="125pt"> <img title="HackerRank SQL gold badge" src= "/assets/badges/HackerRank-SQLGold.png" height="125pt"> <img title="Neo4j Certified Professional"  src= "/assets/badges/Neo4jCP.jpeg" height="125pt"> <img title="Neo4j 4.0 Certified" src= "/assets/badges/Neo4j4.jpg" height="125pt"> <img title="Neo4j Graph Data Science Certified" src= "/assets/badges/Neo4j_GDS.png" height="125pt"> <img title="ArangoDB Certified Professional" src= "/assets/badges/arangodb-certified.png" height="125pt"> 
-
-### Where I have studied?
-
-<a href="https://ul.edu.lb"><img  src= "/assets/img/aboutme/lu.png" height="125pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://usj.edu.lb"><img src= "/assets/img/aboutme/usj.jpg" height="125pt"></a>
-
-### Where I am currently working?
-
-<a href ="https://munchybytes.com"><img  src= "/assets/img/aboutme/munchybytes_wb2.png" height="100pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usal.edu.lb/"><img src= "/assets/img/aboutme/usal3.jpg" height="100pt"></a>
 
 ### Blogs I write for
 

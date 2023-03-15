@@ -9,7 +9,7 @@
 title: "The Data Engineer Blog"
 
 # Your name to show in the footer
-# author: Hadi Fadlallah
+author: Hadi Fadlallah
 
 # --- List of links in the navigation bar --- #
 
@@ -24,7 +24,7 @@ navbar-links:
   - Data Developers: "https://data-dev.blogspot.com"
   - Slideshare: "https://slideshare.net/HadiFad"
   - DBLP: https://dblp.uni-trier.de/pid/239/6719.html
-  About Me: 
+  About Me...: 
   - Info: "aboutme"
   - Certificates: "certification"
   - Courses: "onlinecourses"
@@ -87,7 +87,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "hadifadl.github.io"
+url-pretty: "thedataengineer.blog"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

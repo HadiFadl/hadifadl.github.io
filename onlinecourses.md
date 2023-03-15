@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me.Courses()
+title: Online Courses
 subtitle: Completed online courses certificates
 ---
 

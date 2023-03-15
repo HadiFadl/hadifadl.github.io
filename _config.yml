@@ -105,16 +105,16 @@ keywords: "Hadi Fadlallah, Data Engineer, SSIS, SQL Server, databases, ETL, Hado
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#007474"
-navbar-text-col: "#FFFFFF"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#818181"
+text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#007474"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#C0E1D2"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 #default colors
 #navbar-col: "#EAEAEA"

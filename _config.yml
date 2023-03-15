@@ -24,11 +24,11 @@ navbar-links:
   - Data Developers: "https://data-dev.blogspot.com"
   - Slideshare: "https://slideshare.net/HadiFad"
   - DBLP: https://dblp.uni-trier.de/pid/239/6719.html
-  Certificates:
-  - Professional: "certification"
-  - Courses: "onlinecourses"
-  - Workshops: "workshops"
-  About Me: "aboutme"
+  About Me: 
+  - Info: "aboutme"
+  - Certification: "certification"
+  - Completed Courses: "onlinecourses"
+  - Attended Workshops: "workshops"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Me.Workshops()
-subtitle: Attended workshop and training courses certificates
+title: Attended Workshops
+subtitle: Attended workshops and training courses certificates
 ---
 
 <a href="https://docs.microsoft.com/en-us/learn/"><img src="/assets/img/websites/Microsoft-Learn.jpg" width="300pt" height="60pt" /></a>

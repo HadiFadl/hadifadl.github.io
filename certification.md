@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me.Certificates()
+title: Certifications
 subtitle: List of passed exams and professional certifications
 ---
 

@@ -15,7 +15,9 @@ I am very thankful for being awarded the MSSQLTips.com Rookie of the year. I am 
 
 Noting that new MSSQLTips.com authors in 2022 that had at least 5 published tips are qualified for the Rookie of the year award. The winner is selected based on the community, peer and leadership voting.
 
-<p align="center"><img title="MSSQLTips 2022 awards winners" src="/assets/img/posts/mssqltips2022awards.jpg"></p>
+<p align="center">
+<a href="/assets/certificate/Hadi_2022RookieoftheYear.jpg"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 50%; height: 50%"></a> <br> <hr>
+</p>
 
 * [MSSQLTips.com Authors and Rookie of 2022](https://www.mssqltips.com/sqlservertip/7578/mssqltipscom-authors-and-rookie-of-2022/?utm_source=HadiFadlallah)
 

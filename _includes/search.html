@@ -9,14 +9,17 @@
   <script src="assets/js/simple-jekyll-search.min.js"></script>
   <script>
 var searchjson = '[ \
-  {% for post in site.posts | where: "external_url", true %} \
-    { \
-      "title"    : "{% if post.title != "" %}{{ post.title | replace: "\'", "" | replace: "\"", "" | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}", \
-      "category" : "{{ post.tags | join: \', \' }}", \
-      "external_url"      : "{{ post.external_url }}" \
-    }{% unless forloop.last %},{% endunless %} \
+  {% for post in site.posts %} \
+    {% if post.external_url != "" %} \
+      { \
+        "title"    : "{% if post.title != "" %}{{ post.title | replace: "\'", "" | replace: "\"", "" | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{% endif %}", \
+        "category" : "{{ post.tags | join: \', \' }}", \
+        "external_url"      : "{{ post.external_url }}" \
+      }{% unless forloop.last %},{% endunless %} \
+    {% endif %} \
   {% endfor %} \
 ]';
+
     searchjson = JSON.parse(searchjson);
 
     var sjs = SimpleJekyllSearch({

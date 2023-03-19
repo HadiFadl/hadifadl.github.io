@@ -12,7 +12,9 @@ var searchjson = '[ \
   {% for post in site.posts %} \
     { \
       "title"    : "{% if post.title != "" %}{{ post.title | replace: "\'", "" | replace: "\"", "" | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}", \
-      "category" : "{{ post.tags | join: \', \' }}" \
+      "category" : "{{ post.tags | join: \', \' }}", \
+      "url"      : "{{ site.baseurl }}{{ post.url }}", \
+      "external_url"      : "{{ post.external_url }}" \
     }{% unless forloop.last %},{% endunless %} \
   {% endfor %} \
 ]';

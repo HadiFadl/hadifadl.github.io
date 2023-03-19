@@ -447,14 +447,14 @@ footer .footer-custom-content {
 }
 
 .post-preview {
-  padding: 1.25rem 0;
+  padding: 0.1rem 0;
   border-bottom: 1px solid #eee;
   overflow: hidden;
 }
 
 @media (min-width: 768px) {
   .post-preview {
-    padding: 2.1875rem 0;
+    padding: 0.1rem 0;
   }
 }
 

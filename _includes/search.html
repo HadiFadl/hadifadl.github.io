@@ -7,19 +7,17 @@
   <ul id="search-results-container"></ul>
   
   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-<script>
-  var searchjson = `[${site.posts | map: 
-    '{ "title": "{% if title != "" %}{{ title | strip_html | replace: "\'", "\\\'" }}{% else %}{{ excerpt | strip_html | escape | strip }}{% endif %}", "category": "{{ tags | join: \', \' }}", "url": "{{ site.baseurl }}{{ url }}", "date": "{{ date | date: "%B %e, %Y" | default: "January 1, 1970" }}" }' 
-  | join: ',' }]`;
-  
-  searchjson = JSON.parse(searchjson);
+var searchjson = '[ \
+  {% for post in site.posts %} \
+    { \
+      "title"    : "{% if post.title != "" %}{{ post.title | strip_html | escape | replace: "\'", "\\\'" }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}", \
+      "category" : "{{ post.tags | join: \', \' }}", \
+      "url"      : "{{ site.baseurl }}{{ post.url }}", \
+      "date"     : "{{ post.date | date: "%B %e, %Y" | default: "January 1, 1970" }}" \
+    }{% unless forloop.last %},{% endunless %} \
+  {% endfor %} \
+]';
 
-  var sjs = SimpleJekyllSearch({
-    searchInput: document.getElementById('nav-search-input'),
-    resultsContainer: document.getElementById('search-results-container'),
-    json: searchjson
-  });
-</script>
 
 
 

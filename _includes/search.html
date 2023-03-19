@@ -7,6 +7,7 @@
   <ul id="search-results-container"></ul>
   
   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
 var searchjson = '[ \
   {% for post in site.posts %} \
     { \
@@ -17,8 +18,14 @@ var searchjson = '[ \
     }{% unless forloop.last %},{% endunless %} \
   {% endfor %} \
 ]';
+    searchjson = JSON.parse(searchjson);
 
-
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
 
 
 </div>

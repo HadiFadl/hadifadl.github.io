@@ -9,7 +9,7 @@
   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 <script>
   var searchjson = `[${site.posts | map: 
-    '{ "title": "{{ title | strip_html | escape }}", "category": "{{ tags | join: \', \' }}", "url": "{{ site.baseurl }}{{ url }}", "date": "{{ date | date: "%B %e, %Y" | default: "January 1, 1970" }}" }' 
+    '{ "title": "{{ title | strip_html | escape | replace: "\'", "\\\'" }}", "category": "{{ tags | join: \', \' }}", "url": "{{ site.baseurl }}{{ url }}", "date": "{{ date | date: "%B %e, %Y" | default: "January 1, 1970" }}" }' 
   | join: ',' }]`;
   
   searchjson = JSON.parse(searchjson);
@@ -20,6 +20,7 @@
     json: searchjson
   });
 </script>
+
 
 </div>
 

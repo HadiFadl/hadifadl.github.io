@@ -68,6 +68,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0003-1160-5980
   google-scholar: citations?user=X-tjT_EAAAAJ&hl=en
+  hackerrank: hadi_fadlullah
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.

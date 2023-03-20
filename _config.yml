@@ -15,7 +15,7 @@ author: Hadi Fadlallah
 
 navbar-links:
   Home: /
-  Tags: "tags"
+  Subscribe: "https://mailchi.mp/7449c258ba46/subscribe-to-thedataengineerblog"
   Articles / Slides:
   - Published Series: "series"
   - SQL Shack: "https://www.sqlshack.com/author/hadi/"
@@ -24,6 +24,7 @@ navbar-links:
   - Data Developers: "https://data-dev.blogspot.com"
   - Slideshare: "https://slideshare.net/HadiFad"
   - DBLP: https://dblp.uni-trier.de/pid/239/6719.html
+  Tags: "tags"
   About Me: "aboutme"
   
 # --- Logo --- #

@@ -13,7 +13,15 @@ subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" height="24pt" width="24pt"/></a></sup> Researcher, Data Engineer, and Business Intelligence Developer.
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I write scientific and technical articles on several blogs.
 
-<a href="https://www.mssqltips.com/sqlservertip/7578/mssqltipscom-authors-and-rookie-of-2022/?utm_source=HadiFadlallah"><img title="MSSQLTips Rookie of the year winner" src= "/assets/badges/MSSQLTips Rookie of the year.png"></a> <img title="QuerySurge Certified DevOps for Data Tester" src= "/assets/badges/certified-devops-for-data-tester.png" height="125pt"> <img title="QuerySurge Certified ETL Tester" src= "/assets/badges/certified-etl-tester.png" height="125pt"> <img title="Redis Certified Developer" src= "/assets/badges/Redis-Certified-Developer.png" height="125pt"><img title="MongoDB Certified Developer Associate" src= "/assets/img/aboutme/university-badges-dev-lockup.png" height="125pt"> <img title="HackerRank SQL gold badge" src= "/assets/badges/HackerRank-SQLGold.png" height="125pt"> <img title="Neo4j Certified Professional"  src= "/assets/badges/Neo4jCP.jpeg" height="125pt"> <img title="Neo4j 4.0 Certified" src= "/assets/badges/Neo4j4.jpg" height="125pt"> <img title="Neo4j Graph Data Science Certified" src= "/assets/badges/Neo4j_GDS.png" height="125pt"> <img title="ArangoDB Certified Professional" src= "/assets/badges/arangodb-certified.png" height="125pt"> 
+<p align="center">
+  <b>MSSQLTips.com 2022 Rookie of the Year award</b> <br>
+<a href="certification"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 25%; height: 25%"></a> <br> <hr>
+</p>
+
+<p align="center">
+  <b>Test Name:</b> C100DEV - MongoDB Certified Developer Associate Exam<br><b>Passing Score:</b> 84.33% (506/600) <br>
+<a href="certification"><img src="/assets/certificate/MongoDB_137942193.jpg" style="width: 25%; height: 25%"></a> <br> <hr>
+</p>
 
 ### Blogs I write for
 

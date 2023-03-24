@@ -11,7 +11,7 @@ subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 <h3 align="center">Who am I?</h3>
 
 <p align="center">A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" style="height: 24pt; width: 24pt;"/></a></sup> Researcher, Data Engineer, and Business Intelligence Developer.
-I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I write scientific and technical articles on several blogs.</p>
+I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at <a href="https://stackoverflow.com/users/7031230/hadi">Stackoverflow</a>. Besides, I write scientific and technical articles on several blogs.</p>
 
 <p align="center">
 <a href="/certification"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 25%; height: 25%"></a> <a href="/certification"><img src="/assets/certificate/MongoDB_137942193.jpg" style="width: 25%; height: 25%"></a>
@@ -31,8 +31,11 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 <h3 align="center">Applications I use while writing articles and answering questions</h3>
 
-- Tool for making screenshots: [Greenshot](https://getgreenshot.org/)
-- Testing SSIS expression: [SSIS Expression editor](https://github.com/sqlgreen/SSIS-Expression-Editor)
-- Online SQL query testing: [SQL Fiddle](http://sqlfiddle.com/)
-- Grammar and Spell Checking: [Grammarly](https://grammarly.com/)
-
+<p align="center">
+Brainstorming: <a href="https://chat.openai.com/chat">ChatGPT</a><br>
+Tool for making screenshots: <a href="https://getgreenshot.org/">Greenshot</a><br>
+Testing SSIS expression: <a href="https://github.com/sqlgreen/SSIS-Expression-Editor">SSIS Expression editor</a><br>
+Online SQL query testing: <a href="http://sqlfiddle.com/">SQL Fiddle</a><br>
+Grammar and Spell Checking: <a href="https://grammarly.com/">Grammarly</a><br>
+Improve text readability: <a href="https://www.wordtune.com/">WordTune</a>
+</p>

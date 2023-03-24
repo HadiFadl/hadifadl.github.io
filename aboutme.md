@@ -19,7 +19,9 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Blogs I write for
 
-<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mssqltips.com/sqlserverauthor/412/hadi-fadlallah/?utm_source=HadiFadlallah"><img src= "/assets/img/aboutme/mssql_logo.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/munchy-bytes"><img src= "/assets/img/aboutme/techblog.png" height="75pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://towardsdatascience.com/@hadi-fadlullah"><img src= "/assets/img/aboutme/tds.png" height="75pt"></a>
+<p align="center">
+<a href="https://www.sqlshack.com/author/hadi/"><img src= "/assets/img/aboutme/sqlshack.png" style="width: 25%; height: 25%"></a>&nbsp;<a href="https://www.mssqltips.com/sqlserverauthor/412/hadi-fadlallah/?utm_source=HadiFadlallah"><img src= "/assets/img/aboutme/mssql_logo.png"  style="width: 25%; height: 25%"></a>&nbsp;<a href="https://medium.com/munchy-bytes"><img src= "/assets/img/aboutme/techblog.png"  style="width: 25%; height: 25%"></a>&nbsp;<a href="http://towardsdatascience.com/@hadi-fadlullah"><img src= "/assets/img/aboutme/tds.png"  style="width: 25%; height: 25%"></a>
+</p>
 
 ### Where do I spend my free time? if exists :)
 

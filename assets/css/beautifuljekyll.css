@@ -4,6 +4,26 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+/* --- Sidebar --- */
+
+.sidebar {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.content-wrapper {
+  margin-left: 220px;
+}
+
+@media screen and (max-width: 768px) {
+  .content-wrapper {
+    margin-left: 0;
+  }
+}
+
 /* --- General --- */
 
 html {

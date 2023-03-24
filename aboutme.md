@@ -5,12 +5,12 @@ subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
 
 <p align="center" >
-<img src="/assets/img/linkedinProfile.jpg" >
+<img src="/assets/img/linkedinProfile.jpg"  style="border-radius: 50%">
 </p>
 
 ### Who am I?
 
-A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" style="height: 24pt; width: 24pt; border-radius: 50%"/></a></sup> Researcher, Data Engineer, and Business Intelligence Developer.
+A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/assets/img/aboutme/icon-lb.png" style="height: 24pt; width: 24pt;"/></a></sup> Researcher, Data Engineer, and Business Intelligence Developer.
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I write scientific and technical articles on several blogs.
 
 <p align="center">

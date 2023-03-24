@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-
-{% include sidebar.html %}
+<div class="row">
+  <div class="col-md-8">
 
 {{ content }}
 
@@ -83,3 +83,9 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+	  
+  </div>
+  <div class="col-md-4">
+    {% include sidebar.html %}
+  </div>
+</div>

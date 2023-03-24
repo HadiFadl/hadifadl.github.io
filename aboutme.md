@@ -25,7 +25,9 @@ I have been working with SQL Server (and related technologies) for more than 10 
 
 ### Where do I spend my free time? if exists :)
 
+<p align="center">
 <a href="https://stackexchange.com/users/9455902/hadi?tab=accounts"><img src="https://stackexchange.com/users/flair/9455902.png" width="233" height="65" alt="profile for Hadi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hadi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>
 
 ### Applications I use while writing articles and answering questions
 

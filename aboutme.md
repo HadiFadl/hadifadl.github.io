@@ -14,13 +14,7 @@ A Lebanese <sup><a href="https://en.wikipedia.org/wiki/Lebanon"><img src="/asset
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at [Stackoverflow](https://stackoverflow.com/users/7031230/hadi). Besides, I write scientific and technical articles on several blogs.
 
 <p align="center">
-  <b>MSSQLTips.com 2022 Rookie of the Year award</b> <br>
-<a href="certification"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 25%; height: 25%"></a> <br> <hr>
-</p>
-
-<p align="center">
-  <b>Test Name:</b> C100DEV - MongoDB Certified Developer Associate Exam<br><b>Passing Score:</b> 84.33% (506/600) <br>
-<a href="certification"><img src="/assets/certificate/MongoDB_137942193.jpg" style="width: 25%; height: 25%"></a> <br> <hr>
+<a href="certification"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 25%; height: 25%"></a> <a href="certification"><img src="/assets/certificate/MongoDB_137942193.jpg" style="width: 25%; height: 25%"></a>
 </p>
 
 ### Blogs I write for

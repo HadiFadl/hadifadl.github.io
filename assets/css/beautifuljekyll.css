@@ -6,23 +6,28 @@ layout: null
 
 /* --- Sidebar --- */
 
-.sidebar {
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 10px;
-  margin-bottom: 20px;
+.col-md-8 {
+  float: left;
 }
 
-.content-wrapper {
-  margin-left: 220px;
+.col-md-4 {
+  float: right;
 }
 
-@media screen and (max-width: 768px) {
-  .content-wrapper {
-    margin-left: 0;
+@media (max-width: 767px) {
+  .col-md-8 {
+    float: none;
+  }
+
+  .col-md-4 {
+    float: none;
   }
 }
+
+.posts-list {
+  margin-left: 0;
+}
+
 
 /* --- General --- */
 

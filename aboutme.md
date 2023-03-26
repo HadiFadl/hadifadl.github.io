@@ -14,7 +14,7 @@ subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 I have been working with SQL Server (and related technologies) for more than 10 years. Also, I am one of the top ETL and SQL Server Integration Services contributors at <a href="https://stackoverflow.com/users/7031230/hadi">Stackoverflow</a>. Besides, I write scientific and technical articles on several blogs.</p>
 
 <p align="center">
-<a href="/certification"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 25%; height: 25%"></a> <a href="/certification"><img src="/assets/certificate/MongoDB_137942193.jpg" style="width: 50%; height: 50%"></a>
+<a href="/certification"><img src="/assets/certificate/Hadi_2022RookieoftheYear.jpg" style="width: 50%; height: 50%"></a> <a href="/certification"><img src="/assets/certificate/MongoDB_137942193.jpg" style="width: 50%; height: 50%"></a>
 </p>
 
 <h3 align="center">Blogs I write for</h3>

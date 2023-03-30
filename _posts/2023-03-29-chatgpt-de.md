@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interviewing ChatGPT: What about Data Engineering?
+title: 'Interviewing ChatGPT: What about Data Engineering?'
 published: true
 date: '2023-03-29'
 image: /assets/img/posts/chatgpt.png

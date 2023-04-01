@@ -6,6 +6,13 @@ layout: null
 
 /* --- General --- */
 
+.sidebar {
+  float: right;
+  width: 30%;
+  margin-left: 2%;
+}
+
+
 html {
   font-size: 100%
 }

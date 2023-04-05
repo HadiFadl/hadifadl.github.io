@@ -3,7 +3,7 @@ layout: post
 title: 'Interviewing ChatGPT: What about Data Engineering?'
 published: true
 date: '2023-03-29'
-image: /assets/img/posts/data-pipeline.png
+image: /assets/img/posts/datapipeline.png
 external_url: 'https://medium.com/munchy-bytes/interviewing-chatgpt-what-about-data-engineering-438c8585cef'
 tags:
   - chatgpt

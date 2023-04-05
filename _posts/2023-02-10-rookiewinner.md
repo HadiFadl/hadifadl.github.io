@@ -3,7 +3,7 @@ layout: post
 title: 'MSSQLTips Rookie of the year winner'
 published: true
 date: '2023-02-10'
-image: /assets/img/posts/trophie.jpg
+image: /assets/img/posts/trophie.png
 tags:
   - awards
 subtitle: MSSQLTips.com

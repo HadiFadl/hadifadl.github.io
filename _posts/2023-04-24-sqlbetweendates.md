@@ -4,7 +4,7 @@ title: 'Searching between two date values in SQL Server'
 published: true
 date: '2023-04-24'
 image: /assets/img/posts/Calendar-Clipart-PNG-Photo.png
-external_url: 'https://www.mssqltips.com/sqlservertip/7647/select-sql-server-data-between-two-dates/?utm_source=HadiFadlallah#comments'
+external_url: 'https://www.mssqltips.com/sqlservertip/7647/select-sql-server-data-between-two-dates/?utm_source=HadiFadlallah'
 tags:
   - sql server
   - sql

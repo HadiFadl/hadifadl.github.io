@@ -3,7 +3,7 @@ layout: post
 title: 'Build Python Matplotlib Charts to Visualize Application Log Data'
 published: true
 date: '2024-02-20'
-image: /assets/img/posts/data_statistics.png
+image: /assets/img/posts/Matplotlib_icon.png
 external_url: 'https://www.mssqltips.com/sqlservertip/7929/visualize-application-log-data-python-matplotlib-charts/?utm_source=HadiFadlallah'
 tags:
   - python

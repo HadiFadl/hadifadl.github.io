@@ -3,7 +3,7 @@ layout: post
 title: 'SQL Script for SQL Server Table and Column Properties'
 published: true
 date: '2023-09-29'
-image: /assets/img/posts/data_statistics.png
+image: /assets/img/posts/dbreport.png
 external_url: 'https://www.mssqltips.com/sqlservertip/7803/table-column-properties-sql-server-database/?utm_source=HadiFadlallah'
 tags:
   - sql server

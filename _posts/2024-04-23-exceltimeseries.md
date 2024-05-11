@@ -3,7 +3,7 @@ layout: post
 title: 'How to Visualize Time Series Data using Microsoft Excel'
 published: true
 date: '2024-04-23'
-image: /assets/img/posts/data_statistics.png
+image: /assets/img/posts/msexcelxls.png
 external_url: 'https://www.mssqltips.com/sqlservertip/7978/visualize-time-series-data-using-microsoft-excel/?utm_source=HadiFadlallah'
 tags:
   - Excel

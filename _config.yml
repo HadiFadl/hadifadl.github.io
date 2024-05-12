@@ -24,6 +24,7 @@ navbar-links:
   - Data Developers: "https://data-dev.blogspot.com"
   - Slideshare: "https://slideshare.net/HadiFad"
   - DBLP: https://dblp.uni-trier.de/pid/239/6719.html
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57209104361
   Tags: "tags"
   About Me: "aboutme"
   
@@ -46,10 +47,10 @@ title-img: "/assets/img/The-Data-Engineer-Blog-hat.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hadi.fadlullah@gmail.com"
+#  email: "hadi.fadlullah@gmail.com"
 #  facebook: deanattali
   github: hadifadl
-  twitter: hadifadl2
+#  twitter: hadifadl2
 #  patreon: DeanAttali
 #  reddit: yourname
   linkedin: hadi-fadlallah

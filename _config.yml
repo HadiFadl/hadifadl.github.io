@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/The-Data-Engineer-Blog-hat.png"
+title-img: "/assets/img/banner.png"
 
 
 # --- Footer social media links --- #

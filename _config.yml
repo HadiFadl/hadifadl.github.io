@@ -99,7 +99,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "The Data Engineer Blog, TheDataEngineer.blog, Hadi Fadlallah, Data Engineering, SSIS, SQL Server, databases, ETL, Hadoop, SQL, PowerBI"
+keywords: "Hadi Fadlallah, Data Engineering, SSIS, SQL Server, databases, ETL, Hadoop, SQL, PowerBI, Python, Data visualization"
 
 # Add a search button to the navbar
 post_search: true
@@ -109,28 +109,28 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#89B8CB"
-navbar-text-col: "#404040"
-navbar-border-col: "#7ba6b8"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#89B8CB"
-footer-text-col: "#404040"
-footer-link-col: "#404040"
-
-#default colors
-#navbar-col: "#EAEAEA"
+#navbar-col: "#89B8CB"
 #navbar-text-col: "#404040"
-#navbar-border-col: "#DDDDDD"
+#navbar-border-col: "#7ba6b8"
 #page-col: "#FFFFFF"
 #text-col: "#404040"
 #link-col: "#008AFF"
 #hover-col: "#0085A1"
-#footer-col: "#EAEAEA"
-#footer-text-col: "#777777"
+#footer-col: "#89B8CB"
+#footer-text-col: "#404040"
 #footer-link-col: "#404040"
+
+#default colors
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

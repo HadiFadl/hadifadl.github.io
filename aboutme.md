@@ -5,7 +5,7 @@ subtitle: Data Engineer, Lecturer, Researcher, Technical Author
 ---
 
 <p align="center" >
-<img src="/assets/img/linkedinProfile.jpg"  style="border-radius: 50%">
+<img src="/assets/img/aboutme.jpeg"  style="border-radius: 50%">
 </p>
 
 <h3 align="center">Who am I?</h3>

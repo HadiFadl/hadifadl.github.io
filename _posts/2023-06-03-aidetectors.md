@@ -3,7 +3,7 @@ layout: post
 title: 'The Struggle with AI Content Detectors'
 published: true
 date: '2023-06-03'
-image: /assets/img/posts/4373-visuels-d-entete-de-blog.png
+image: /assets/img/avatar-struggle.jpg
 external_url: 'https://medium.com/munchy-bytes/the-struggle-with-ai-content-detectors-9a9a144ad182'
 tags:
   - chatgpt

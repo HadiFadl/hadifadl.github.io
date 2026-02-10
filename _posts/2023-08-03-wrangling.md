@@ -3,7 +3,7 @@ layout: post
 title: 'Data Wrangling in SQL Server for Cleaning, Transforming and Merging Data'
 published: true
 date: '2023-08-03'
-image: /assets/img/posts/wrangling.png
+image: /assets/img/avatar-cleaning.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/7744/data-wrangling-sql-server-examples/?utm_source=HadiFadlallah'
 tags:
   - sql server

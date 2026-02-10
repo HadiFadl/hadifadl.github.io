@@ -3,7 +3,7 @@ layout: post
 title: 'SSIS in One Hour: Hands-On Tutorial'
 published: true
 date: '2024-07-18'
-image: /assets/img/posts/ssislogo.png
+image: /assets/img/avatar-db.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/8041/ssis-in-one-hour-hands-on-tutorial/?utm_source=HadiFadlallah'
 tags:
   - sql server

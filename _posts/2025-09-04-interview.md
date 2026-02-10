@@ -3,7 +3,7 @@ layout: post
 title: SQL Developer Interview Questions
 published: true
 date: '2025-09-04'
-image: /assets/img/posts/avatar-interview.jpg
+image: /assets/img/avatar-interview.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/11486/sql-developer-interview-questions/?utm_source=HadiFadlallah'
 tags:
   - sql

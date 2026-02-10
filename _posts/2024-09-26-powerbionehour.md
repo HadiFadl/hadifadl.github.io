@@ -3,7 +3,7 @@ layout: post
 title: 'Power BI in One Hour'
 published: true
 date: '2024-09-26'
-image: /assets/img/posts/powerbi.png
+image: /assets/img/avatar-data.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/8090/power-bi-in-one-hour/?utm_source=HadiFadlallah'
 tags:
   - power bi

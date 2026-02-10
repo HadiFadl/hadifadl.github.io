@@ -3,7 +3,7 @@ layout: post
 title: 'Different methods for monitoring MongoDB databases'
 published: true
 date: '2023-06-14'
-image: /assets/img/posts/mongodblogo.png
+image: /assets/img/avatar-nosql.jpg
 external_url: 'https://www.sqlshack.com/different-methods-for-monitoring-mongodb-databases/'
 tags:
   - mongodb

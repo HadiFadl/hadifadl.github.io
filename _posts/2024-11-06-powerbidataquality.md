@@ -3,7 +3,7 @@ layout: post
 title: 'Power BI to Visualize and Profile Data for Data Quality'
 published: true
 date: '2024-11-06'
-image: /assets/img/posts/powerbi.png
+image: /assets/img/avatar-data.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/8126/power-bi-to-visualize-and-profile-data-for-data-quality/?utm_source=HadiFadlallah'
 tags:
   - power bi

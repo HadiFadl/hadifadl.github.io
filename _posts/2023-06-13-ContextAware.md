@@ -3,7 +3,7 @@ layout: post
 title: 'Context-aware big data quality assessment: a scoping review'
 published: true
 date: '2023-06-13'
-image: /assets/img/posts/bigdata.png
+image: /assets/img/avatar-bigdata.jpg
 external_url: 'https://doi.org/10.1145/3603707'
 tags:
   - big data

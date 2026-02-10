@@ -3,7 +3,7 @@ layout: post
 title: 'Implicit Conversion Concerns for SQL Server Performance'
 published: true
 date: '2023-07-19'
-image: /assets/img/posts/convert.png
+image: /assets/img/avatar-convert.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/7732/implicit-conversions-in-sql-affect-query-performance/?utm_source=HadiFadlallah'
 tags:
   - sql server

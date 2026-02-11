@@ -3,7 +3,7 @@ layout: post
 title: Using parameterized queries to avoid SQL injection
 published: true
 date: '2022-11-18'
-image: /assets/img/posts/Types-of-SQLi-Injection.png
+image: /assets/img/avatar-cyringe.jpg
 external_url: 'https://www.sqlshack.com/using-parameterized-queries-to-avoid-sql-injection/'
 tags:
   - sql server

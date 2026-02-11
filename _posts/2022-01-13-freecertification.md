@@ -2,7 +2,7 @@
 layout: post
 title: Professional Certification Exams provided at NO COST
 published: true
-image: /assets/img/posts/medal.png
+image: /assets/img/avatar-certificate.jpg
 date: '2022-01-13'
 tags:
   - free certification

@@ -3,7 +3,7 @@ layout: post
 title: 'Learn SQL: Insert multiple rows commands'
 published: true
 date: '2023-03-06'
-image: /assets/img/posts/tsql.png
+image: /assets/img/avatar-sql.jpg
 external_url: 'https://www.sqlshack.com/learn-sql-insert-multiple-rows-commands/'
 tags:
   - sql server

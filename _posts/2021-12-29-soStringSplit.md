@@ -3,7 +3,7 @@ layout: post
 title: 'How to using STRING_SPLIT within an SSIS OLE DB Source SQL Command when the database compatibility level is set to  is set to SQL Server 2008?'
 published: true
 date: '2021-12-29'
-image: /assets/img/Stack_Overflow.png
+image: /assets/img/avatar-stackoverflow.jpg
 external_url: 'https://stackoverflow.com/questions/70507301/how-to-using-string-split-functionality-on-sql-server-2017-when-the-database-is/70524611'
 tags:
   - ssis

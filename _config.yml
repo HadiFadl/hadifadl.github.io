@@ -15,7 +15,7 @@ author: Hadi Fadlallah
 
 navbar-links:
   Home: /
-  Subscribe: "https://mailchi.mp/7449c258ba46/subscribe-to-thedataengineerblog"
+  # Subscribe: "https://mailchi.mp/7449c258ba46/subscribe-to-thedataengineerblog"
   Articles / Slides:
   - Published Series: "series"
   - SQL Shack: "https://www.sqlshack.com/author/hadi/"

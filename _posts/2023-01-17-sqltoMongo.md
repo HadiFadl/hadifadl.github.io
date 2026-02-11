@@ -3,7 +3,7 @@ layout: post
 title: 'Migrate Data from SQL Server to MongoDB using SSIS'
 published: true
 date: '2023-01-17'
-image: /assets/img/posts/mongodblogo.png
+image: /assets/img/avatar-nosql.jpg
 external_url: 'https://www.mssqltips.com/sqlservertip/7520/export-data-from-sql-server-to-mongodb-using-ssis/?utm_source=HadiFadlallah'
 tags:
   - sql server

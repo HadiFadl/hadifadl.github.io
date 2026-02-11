@@ -4,6 +4,11 @@ title: Published Article Series
 subtitle: List of published article series on different blogs
 ---
 
+<p align="center" >
+<img src="/assets/img/avatar-series.jpg"  style="border-radius: 50%; width: 50%; height: 50%">
+</p>
+
+
 <h3 align="center">SSIS Bad Habits (6 articles)</h3>
 I have been working with SSIS for more than ten years and answering related questions on Stack Overflow for more than five years. During this period, I noted several bad practices that may affect the package performance used by SSIS users. I decided to start writing a series to explain those practices’ side effects and provide valuable resources.
 

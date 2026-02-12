@@ -3,6 +3,7 @@ layout: post
 title: Big Data Integration
 published: true
 date: '2018-12-06'
+image: /assets/img/avatar-integration.jpg
 external_url: 'https://towardsdatascience.com/big-data-integration-9a2fb2d78529'
 tags:
   - big data

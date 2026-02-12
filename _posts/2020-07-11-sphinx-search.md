@@ -3,7 +3,7 @@ layout: post
 title: Getting started with Sphinx search engine
 published: true
 date: '2020-07-11'
-image: /assets/img/posts/sphinxlogo.png
+image: /assets/img/avatar-sphinx.jpg
 external_url: 'https://www.sqlshack.com/getting-started-with-sphinx-search-engine/'
 tags:
   - sphinx search

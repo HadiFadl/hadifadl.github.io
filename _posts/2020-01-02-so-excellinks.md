@@ -3,7 +3,7 @@ layout: post
 title: SSIS Extract links from Excel cells to load into SQL
 published: true
 date: '2020-01-02'
-image: /assets/img/Stack_Overflow.png
+image: /assets/img/avatar-stackoverflow.jpg
 external_url: 'https://stackoverflow.com/questions/59536177/ssis-extract-links-from-excel-cells-to-load-into-sql/59570855#59570855'
 tags:
   - excel

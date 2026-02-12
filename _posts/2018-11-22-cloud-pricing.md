@@ -3,6 +3,7 @@ layout: post
 title: Pricing on the Cloud
 published: true
 date: '2018-11-22'
+image: /assets/img/avatar-cloud.jpg
 external_url: 'https://towardsdatascience.com/pricing-on-the-cloud-9a2d3f61b67f'
 tags:
   - cloud computing

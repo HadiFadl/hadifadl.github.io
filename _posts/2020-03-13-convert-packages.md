@@ -3,7 +3,7 @@ layout: post
 title: Converting SSIS packages to Biml scripts
 published: true
 date: '2020-03-13'
-image: /assets/img/posts/bimllogo.png
+image: /assets/img/avatar-biml.jpg
 external_url: 'https://www.sqlshack.com/converting-ssis-packages-to-biml-scripts/'
 tags:
   - biml

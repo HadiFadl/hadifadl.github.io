@@ -3,7 +3,7 @@ layout: post
 title: Reasons to not install Hadoop on Windows
 published: true
 date: '2020-05-15'
-image: /assets/img/posts/hadooplogo.png
+image: /assets/img/avatar-elephant.jpg
 external_url: 'https://medium.com/@hadi.fadlullah/reasons-to-not-install-hadoop-on-windows-5bf22f3f0005'
 tags:
   - big data

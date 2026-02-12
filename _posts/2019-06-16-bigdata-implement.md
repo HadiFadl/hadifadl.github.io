@@ -3,7 +3,7 @@ layout: post
 title: Do you really need to implement Big Data technologies in your ecosystem?
 published: true
 date: '2019-06-16'
-image: /assets/img/avatar-bigadata.jpg
+image: /assets/img/avatar-bigdata.jpg
 external_url: 'https://towardsdatascience.com/do-you-really-need-to-implement-big-data-technologies-in-your-ecosystem-ea840a3cf286'
 tags:
   - big data

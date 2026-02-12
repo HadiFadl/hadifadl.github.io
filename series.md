@@ -5,7 +5,7 @@ subtitle: List of published article series on different blogs
 ---
 
 <p align="center" >
-<img src="/assets/img/avatar-articles.jpg"  style="width: 50%; height: 50%">
+<img src="/assets/img/avatar-articles.jpg"  style="width: 80%; height: 80%">
 </p>
 
 

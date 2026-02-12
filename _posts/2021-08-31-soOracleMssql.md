@@ -3,7 +3,7 @@ layout: post
 title: SSIS, query Oracle table using ID's from SQL Server?
 published: true
 date: '2021-08-31'
-image: /assets/img/Stack_Overflow.png
+image: /assets/img/avatar-stackoverflow.jpg
 external_url: 'https://stackoverflow.com/questions/68839997/ssis-query-oracle-table-using-ids-from-sql-server'
 tags:
   - ssis

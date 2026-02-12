@@ -3,7 +3,7 @@ layout: post
 title: Different approaches to execute Python in SQL Server
 published: true
 date: '2021-05-10'
-image: /assets/img/posts/python.png
+image: /assets/img/avatar-python.jpg
 external_url: 'https://www.sqlshack.com/different-approaches-to-execute-python-in-sql-server/'
 tags:
   - python

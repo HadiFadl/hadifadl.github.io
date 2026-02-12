@@ -3,7 +3,7 @@ layout: post
 title: Adding MySQL, SQLite, and Oracle support to SchemaMapper
 published: true
 date: '2020-12-09'
-image: /assets/img/posts/sm_logo.jpg
+image: /assets/img/avatar-mapping.jpg
 external_url: 'https://medium.com/munchy-bytes/schemamapper-1-1-0-release-notes-9b1314825669'
 tags:
   - c#

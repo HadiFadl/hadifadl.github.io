@@ -3,7 +3,7 @@ layout: post
 title: Extending Biml with C# scripts
 published: true
 date: '2020-03-16'
-image: /assets/img/posts/bimllogo.png
+image: /assets/img/avatar-biml.jpg
 external_url: 'https://www.sqlshack.com/extending-biml-with-c-scripts/'
 tags:
   - biml

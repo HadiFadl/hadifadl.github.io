@@ -3,7 +3,7 @@ layout: post
 title: How to Map Input and Output Columns dynamically in SSIS?
 published: true
 date: '2019-02-20'
-image: /assets/img/Stack_Overflow.png
+image: /assets/img/avatar-stackoverflow.jpg
 external_url: 'https://stackoverflow.com/questions/54781017/how-to-map-input-and-output-columns-dynamically-in-ssis/54797147#54797147'
 tags:
   - ssis

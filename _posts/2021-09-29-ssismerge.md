@@ -3,7 +3,7 @@ layout: post
 title: SSIS Merge Join vs. Merge Transformation
 published: true
 date: '2021-09-29'
-image: /assets/img/avatar-armwrestling.png
+image: /assets/img/avatar-armwrestling.jpg
 external_url: 'https://www.sqlshack.com/ssis-merge-join-vs-merge-transformation/'
 tags:
   - ssis

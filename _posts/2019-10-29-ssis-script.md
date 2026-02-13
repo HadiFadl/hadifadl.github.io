@@ -3,7 +3,7 @@ layout: post
 title: SSIS Script Component Overview
 published: true
 date: '2019-10-29'
-image: /assets/img/posts/ssislogo.jpg
+image: /assets/img/avatar-ssis2.jpg
 external_url: 'https://www.sqlshack.com/ssis-script-component-overview/'
 tags:
   - ssis

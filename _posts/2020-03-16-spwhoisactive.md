@@ -3,7 +3,7 @@ layout: post
 title: Monitoring activities using sp_WhoIsActive in SQL Server
 published: true
 date: '2020-03-16'
-image: /assets/img/posts/mssqllogo.jpg
+image: /assets/img/avatar-sql.jpg
 external_url: 'https://www.sqlshack.com/monitoring-activities-using-sp_whoisactive-in-sql-server/'
 tags:
   - sp_whoisactive

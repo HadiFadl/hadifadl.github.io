@@ -3,7 +3,7 @@ layout: post
 title: 'SQL OFFSET FETCH Feature: Loading Large Volumes of Data Using Limited Resources with SSIS'
 published: true
 date: '2019-11-14'
-image: /assets/img/posts/ssislogo.jpg
+image: /assets/img/avatar-ssis2.jpg
 external_url: 'https://www.sqlshack.com/sql-offset-fetch-feature-loading-large-volumes-of-data-using-limited-resources-with-ssis/'
 tags:
   - sql

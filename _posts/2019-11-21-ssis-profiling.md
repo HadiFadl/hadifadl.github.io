@@ -3,7 +3,7 @@ layout: post
 title: An overview of the Data Profiling task in SSIS
 published: true
 date: '2019-11-21'
-image: /assets/img/posts/ssislogo.jpg
+image: /assets/img/avatar-ssis.jpg
 external_url: 'https://www.sqlshack.com/overview-of-data-profiling-task-in-ssis/'
 tags:
   - ssis

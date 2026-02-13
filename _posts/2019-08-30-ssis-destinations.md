@@ -3,7 +3,7 @@ layout: post
 title: SSIS OLE DB Destination vs SQL Server Destination
 published: true
 date: '2019-08-30'
-image: /assets/img/posts/versus2.jpg
+image: /assets/img/avatar-compare.jpg
 external_url: 'https://www.sqlshack.com/ssis-ole-db-destination-vs-sql-server-destination/'
 tags:
   - ssis

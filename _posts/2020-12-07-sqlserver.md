@@ -3,7 +3,7 @@ layout: post
 title: Nine features that made SQL Server more than a traditional DBMS
 published: true
 date: '2020-12-07'
-image: /assets/img/posts/mssqllogo.jpg
+image: /assets/img/avatar-db.jpg
 external_url: 'https://hadi-fadlullah.medium.com/nine-features-that-made-sql-server-more-than-a-traditional-dbms-342baa60eaed'
 tags:
   - big data

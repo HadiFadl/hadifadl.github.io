@@ -3,7 +3,7 @@ layout: post
 title: SQL Server functions for converting a String to a Date
 published: true
 date: '2020-02-06'
-image: /assets/img/posts/mssqllogo.jpg
+image: /assets/img/avatar-dates.jpg
 external_url: 'https://www.sqlshack.com/sql-server-functions-for-converting-string-to-date/'
 tags:
   - sql

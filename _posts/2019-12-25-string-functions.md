@@ -3,7 +3,7 @@ layout: post
 title: An overview of SQL String Functions
 published: true
 date: '2019-12-25'
-image: /assets/img/posts/mssqllogo.jpg
+image: /assets/img/avatar-sql2.jpg
 external_url: 'https://www.sqlshack.com/overview-of-sql-string-functions/'
 tags:
   - sql

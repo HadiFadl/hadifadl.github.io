@@ -3,7 +3,7 @@ layout: post
 title: Yet another bunch of SQL string functions
 published: true
 date: '2020-01-13'
-image: /assets/img/posts/mssqllogo.jpg
+image: /assets/img/avatar-sql2.jpg
 external_url: 'https://www.sqlshack.com/yet-another-bunch-of-sql-string-functions/'
 tags:
   - sql

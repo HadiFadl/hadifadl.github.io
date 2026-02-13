@@ -3,7 +3,7 @@ layout: post
 title: SSIS Script task vs. Script Component
 published: true
 date: '2021-11-19'
-image: /assets/img/avatar-armwrestling.png
+image: /assets/img/avatar-armwrestling.jpg
 external_url: 'https://www.sqlshack.com/ssis-script-task-vs-script-component/'
 tags:
   - ssis

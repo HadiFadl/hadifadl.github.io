@@ -3,7 +3,7 @@ layout: post
 title: SSIS Lookup transformation vs. Fuzzy Lookup transformation
 published: true
 date: '2021-07-28'
-image: /assets/img/posts/versus2.jpg
+image: /assets/img/avatar-armwrestling.png
 external_url: 'https://www.sqlshack.com/ssis-lookup-transformations-vs-fuzzy-lookup-transformations/'
 tags:
   - ssis

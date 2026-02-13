@@ -3,7 +3,7 @@ layout: post
 title: Installing Hadoop 3.2.1 Single node cluster on Windows 10
 published: true
 date: '2020-04-18'
-image: /assets/img/posts/hadooplogo.png
+image: /assets/img/avatar-elephant.jpg
 external_url: 'https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef'
 tags:
   - big data

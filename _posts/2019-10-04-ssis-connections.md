@@ -3,7 +3,7 @@ layout: post
 title: 'SSIS Connection Managers: OLE DB vs ODBC vs ADO.NET'
 published: true
 date: '2019-10-04'
-image: /assets/img/posts/versus2.jpg
+image: /assets/img/avatar-compare.jpg
 external_url: 'https://www.sqlshack.com/ssis-connection-managers-ole-db-vs-odbc-vs-ado-net/'
 tags:
   - ssis

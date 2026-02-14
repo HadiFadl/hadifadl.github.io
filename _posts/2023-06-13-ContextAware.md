@@ -9,6 +9,7 @@ tags:
   - big data
   - data quality
   - context awareness
+  - research
 subtitle: ACM Journal of Data and Information Quality
 ---
 The term data quality refers to measuring the fitness of data regarding the intended usage. Poor data quality leads to inadequate, inconsistent, and erroneous decisions that could escalate the computational cost, cause a decline in profits, and cause customer churn. Thus, data quality is crucial for researchers and industry practitioners.

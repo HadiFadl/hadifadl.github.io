@@ -19,7 +19,7 @@ I just discovered that I’m listed as a contributor in two published books on M
 I was puzzled! How did this happen? Here’s the interesting backstory…
 
 <p align="center">
-<a href="/assets/screenshot-book-contribution.jpg"><img src="/assets/screenshot-book-contribution.jpg" style="width: 100%; height: 100%"></a>
+<a href="/assets/img/screenshot-book-contribution.jpg"><img src="/assets/img/screenshot-book-contribution.jpg" style="width: 100%; height: 100%"></a>
 </p>
 
 What’s interesting is that these books were generated from the Stack Overflow Documentation project; an experimental, community-driven documentation platform launched in 2016 and discontinued in 2017. 

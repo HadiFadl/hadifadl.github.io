@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSSQLTips Rookie of the year winner'
+title: 'MSSQLTips Trendsetter Award'
 published: true
 date: '2025-07-01'
 image: /assets/img/avatar-award.jpg

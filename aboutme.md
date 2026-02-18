@@ -5,7 +5,7 @@ subtitle: Data Professional and Researcher
 ---
 
 <p align="center" >
-<img src="/assets/img/aboutme/profile.jpg"  style="border-radius: 50%; width: 50%; height: 50%">
+<img src="/assets/img/aboutme/profile.jpg"  style="width: 50%; height: 50%">
 </p>
 
 <h3 align="center">Who am I?</h3>

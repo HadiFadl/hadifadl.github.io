@@ -5,25 +5,26 @@
   <div id="nav-search-exit" title="Exit search">✕</div>
   <input type="text" id="nav-search-input" placeholder="Search">
   <ul id="search-results-container"></ul>
+
+  <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
   
-  <script src="assets/js/simple-jekyll-search.min.js"></script>
   <script>
-var searchjson = '[ \
-  {% for post in site.posts | where: "external_url", "" != post.external_url %} \
-      { \
-        "title"    : "{% if post.title != "" %}{{ post.title | replace: "\'", "" | replace: "\"", "" | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{% endif %}", \
-        "category" : "{{ post.tags | join: \', \' }}", \
-        "external_url"      : "{{ post.external_url }}" \
-      }{% unless forloop.last %},{% endunless %} \
-  {% endfor %} \
-]';
-
-    searchjson = JSON.parse(searchjson);
-
+    var searchjson = [
+      {% for post in site.posts %}
+        {
+          "title": "{% if post.title != "" %}{{ post.title | replace: "\'", "" | replace: "\"", "" | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{% endif %}",
+          "category": "{{ post.tags | join: ', ' | escape }}",
+          "url": "{% if post.external_url and post.external_url != "" %}{{ post.external_url }}{% else %}{{ post.url | relative_url }}{% endif %}"
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+  
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('nav-search-input'),
       resultsContainer: document.getElementById('search-results-container'),
-      json: searchjson
+      json: searchjson,
+      searchResultTemplate: '<li><a href="{url}">{title}</a><br><small>{category}</small></li>',
+      noResultsText: '<li>No results found</li>'
     });
   </script>
 

@@ -3,6 +3,7 @@ layout: post
 title: 'When Community Contributions Turn Into Published Books'
 published: true
 date: '2026-01-16'
+external_url: ''
 image: /assets/img/avatar-book.jpg
 tags:
   - sql server

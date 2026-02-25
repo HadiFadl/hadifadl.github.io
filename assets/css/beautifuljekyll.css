@@ -1129,3 +1129,14 @@ pre {
     display: inline-block;
   }
 }
+
+/* Make navbar logo grayscale by default */
+.navbar-brand-logo img {
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+/* Restore color on hover */
+.navbar-brand-logo img:hover {
+  filter: grayscale(0%);
+}

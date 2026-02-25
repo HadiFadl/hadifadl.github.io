@@ -1130,13 +1130,15 @@ pre {
   }
 }
 
-/* Make navbar logo grayscale by default */
-.navbar-brand-logo img {
+/* Navbar logo: grayscale until hover */
+.navbar-custom .navbar-brand-logo img {
   filter: grayscale(100%);
   transition: filter 0.3s ease;
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: -webkit-filter 0.3s ease;
 }
 
-/* Restore color on hover */
-.navbar-brand-logo img:hover {
+.navbar-custom .navbar-brand-logo:hover img {
   filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
 }
